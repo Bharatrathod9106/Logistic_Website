@@ -1,0 +1,80 @@
+date/time         : 2022-03-10, 13:27:02, 202ms
+computer name     : LAPTOP-N1RIMF2S
+user name         : dhair
+registered owner  : dhairyajoshi0110@gmail.com
+operating system  : Windows NT New x64 build 9200
+system language   : English
+system up time    : 8 days 20 hours
+program up time   : 6 minutes 42 seconds
+processors        : 8x Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+physical memory   : 1572/8034 MB (free/total)
+free disk space   : (C:) 47.08 GB
+display mode      : 1536x864, 32 bit
+process id        : $4b28
+allocated memory  : 23.46 MB
+command line      : "C:\xampp\sendmail\sendmail.exe" -t
+executable        : sendmail.exe
+exec. date/time   : 2011-06-18 01:10
+compiled with     : Delphi 2006/07
+madExcept version : 3.0l
+callstack crc     : $1d5da2f6, $81feeafb, $81feeafb
+exception number  : 1
+exception class   : EIdSocketError
+exception message : Socket Error # 10054 Connection reset by peer.
+
+main thread ($1d90):
+00435e23 +0073 sendmail.exe IdStack            706  +42 TIdStack.RaiseSocketError
+00435d86 +005e sendmail.exe IdStack            654  +10 TIdStack.CheckForSocketError
+00444de0 +0020 sendmail.exe IdIOHandlerSocket  484   +1 TIdIOHandlerSocket.CheckForError
+00465b52 +003e sendmail.exe IdSSLOpenSSL      2299  +10 TIdSSLIOHandlerSocketOpenSSL.CheckForError
+0043da8a +01ae sendmail.exe IdIOHandler       1495  +47 TIdIOHandler.ReadFromSource
+0043d559 +0159 sendmail.exe IdIOHandler       1315  +57 TIdIOHandler.ReadLn
+0043d380 +0024 sendmail.exe IdIOHandler       1233   +1 TIdIOHandler.ReadLn
+0043d837 +0073 sendmail.exe IdIOHandler       1428  +10 TIdIOHandler.ReadLnWait
+0044035d +0059 sendmail.exe IdTCPConnection    768   +7 TIdTCPConnection.GetInternalResponse
+0043fea3 +0013 sendmail.exe IdTCPConnection    564   +1 TIdTCPConnection.GetResponse
+0043ff87 +005b sendmail.exe IdTCPConnection    585   +4 TIdTCPConnection.SendCmd
+0044020e +0056 sendmail.exe IdTCPConnection    723   +4 TIdTCPConnection.SendCmd
+0045a9ac +0128 sendmail.exe IdSMTP             339  +38 TIdSMTP.Authenticate
+004b5f81 +10cd sendmail.exe sendmail           822 +340 initialization
+76716737 +0017 KERNEL32.DLL                             BaseThreadInitThunk
+
+thread $3268:
+76716737 +17 KERNEL32.DLL  BaseThreadInitThunk
+
+stack dump:
+0019ef74  28 5e 43 00 de fa ed 0e - 01 00 00 00 07 00 00 00  (^C.............
+0019ef84  88 ef 19 00 28 5e 43 00 - 98 cc 69 02 ec 28 43 00  ....(^C...i..(C.
+0019ef94  05 00 00 00 ff ff ff ff - c4 ef 19 00 a4 ef 19 00  ................
+0019efa4  10 f0 19 00 c8 4b 40 00 - c4 ef 19 00 10 db 63 02  .....K@.......c.
+0019efb4  00 00 00 00 00 00 00 00 - 46 27 00 00 30 50 69 02  ........F'..0Pi.
+0019efc4  e8 ef 19 00 89 5d 43 00 - 00 00 00 00 46 27 00 00  .....]C.....F'..
+0019efd4  02 00 00 00 ff ff ff ff - f4 ef 19 00 ff ff ff ff  ................
+0019efe4  30 50 69 02 48 f0 19 00 - e5 4d 44 00 01 00 00 00  0Pi.H....MD.....
+0019eff4  4a 27 00 00 45 27 00 00 - 57 5b 46 00 dc fd 19 00  J'..E'..W[F.....
+0019f004  94 34 46 00 00 00 00 00 - 8d da 43 00 7c f0 19 00  .4F.......C.|...
+0019f014  c8 4b 40 00 48 f0 19 00 - 10 db 63 02 10 db 63 02  .K@.H.....c...c.
+0019f024  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0019f034  ff ff ff ff 00 00 00 00 - 00 00 00 00 10 db 63 02  ..............c.
+0019f044  00 00 00 00 74 ff 19 00 - d4 07 44 00 00 00 00 00  ....t.....D.....
+0019f054  7c f0 19 00 87 fd 43 00 - 00 00 00 00 86 66 4b 00  |.....C......fK.
+0019f064  a4 4b 40 00 00 00 00 00 - 28 5e 43 00 80 cc 69 02  .K@.....(^C...i.
+0019f074  d0 f5 19 00 7c f0 19 00 - ac f0 19 00 20 4c 40 00  ....|........L@.
+0019f084  b8 f0 19 00 b8 f0 19 00 - 00 00 00 00 00 00 00 00  ................
+0019f094  00 00 00 00 32 8b 25 77 - d0 f5 19 00 dc fd 19 00  ....2.%w........
+0019f0a4  b8 f1 19 00 14 f1 19 00 - dc fd 19 00 80 8b 25 77  ..............%w
+
+disassembling:
+[...]
+00435e13       push    eax
+00435e14       mov     ecx, [ebp-8]
+00435e17       mov     dl, 1
+00435e19       mov     eax, [$4352ac]
+00435e1e       call    -$717 ($43570c)        ; IdStack.EIdSocketError.CreateError
+00435e23     > call    -$3113c ($404cec)      ; System.@RaiseExcept
+00435e28 707   xor     eax, eax
+00435e2a       pop     edx
+00435e2b       pop     ecx
+00435e2c       pop     ecx
+00435e2d       mov     fs:[eax], edx
+[...]

@@ -1,0 +1,2659 @@
+21-11-21 13:49:13 ** --- MESSAGE BEGIN ---
+21-11-21 13:49:13 ** To: dj.1.2.20.dj@gmail.com
+21-11-21 13:49:13 ** Subject: Reset Code
+21-11-21 13:49:13 ** 
+21-11-21 13:49:13 ** Your reset code is 889101
+21-11-21 13:49:13 ** --- MESSAGE END ---
+21-11-21 13:49:14 ** Connecting to smtp.gmail.com:587
+21-11-21 13:49:14 ** Connected.
+21-11-21 13:49:16 << 220 smtp.gmail.com ESMTP k2sm5239627pfc.9 - gsmtp<EOL>
+21-11-21 13:49:16 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 13:49:16 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 13:49:16 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-11-21 13:49:16 >> STARTTLS<EOL>
+21-11-21 13:49:17 << 220 2.0.0 Ready to start TLS<EOL>
+21-11-21 13:49:17 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 13:49:17 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 13:49:17 >> AUTH LOGIN<EOL>
+21-11-21 13:49:17 << 334 VXNlcm5hbWU6<EOL>
+21-11-21 13:49:17 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-11-21 13:49:18 << 334 UGFzc3dvcmQ6<EOL>
+21-11-21 13:49:18 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-11-21 13:49:18 << 235 2.7.0 Accepted<EOL>
+21-11-21 13:49:18 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 13:49:18 << 250 2.1.0 OK k2sm5239627pfc.9 - gsmtp<EOL>
+21-11-21 13:49:18 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 13:49:19 << 250 2.1.5 OK k2sm5239627pfc.9 - gsmtp<EOL>
+21-11-21 13:49:19 >> DATA<EOL>
+21-11-21 13:49:19 << 354  Go ahead k2sm5239627pfc.9 - gsmtp<EOL>
+21-11-21 13:49:19 >> Date: Sun, 21 Nov 2021 13:49:19 +0530<EOL>
+21-11-21 13:49:19 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-11-21 13:49:19 >> Subject: Reset Code<EOL>
+21-11-21 13:49:19 >> <EOL>
+21-11-21 13:49:19 >> Your reset code is 889101<EOL>
+21-11-21 13:49:19 >> .<EOL>
+21-11-21 13:49:20 << 250 2.0.0 OK  1637482762 k2sm5239627pfc.9 - gsmtp<EOL>
+21-11-21 13:49:20 >> QUIT<EOL>
+21-11-21 13:49:20 << 221 2.0.0 closing connection k2sm5239627pfc.9 - gsmtp<EOL>
+21-11-21 13:49:20 ** Disconnected.
+21-11-21 13:49:20 ** Disconnected.
+21-11-21 13:49:20 ** Disconnected.
+21-11-21 13:55:37 ** --- MESSAGE BEGIN ---
+21-11-21 13:55:37 ** To: dj.1.2.20.dj@gmail.com
+21-11-21 13:55:37 ** Subject: Reset Code
+21-11-21 13:55:37 ** 
+21-11-21 13:55:37 ** Your reset code is 773830
+21-11-21 13:55:37 ** --- MESSAGE END ---
+21-11-21 13:55:38 ** Connecting to smtp.gmail.com:587
+21-11-21 13:55:38 ** Connected.
+21-11-21 13:55:40 << 220 smtp.gmail.com ESMTP o185sm4632427pfg.113 - gsmtp<EOL>
+21-11-21 13:55:40 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 13:55:40 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 13:55:40 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-11-21 13:55:40 >> STARTTLS<EOL>
+21-11-21 13:55:40 << 220 2.0.0 Ready to start TLS<EOL>
+21-11-21 13:55:40 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 13:55:40 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 13:55:40 >> AUTH LOGIN<EOL>
+21-11-21 13:55:41 << 334 VXNlcm5hbWU6<EOL>
+21-11-21 13:55:41 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-11-21 13:55:41 << 334 UGFzc3dvcmQ6<EOL>
+21-11-21 13:55:41 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-11-21 13:55:41 << 235 2.7.0 Accepted<EOL>
+21-11-21 13:55:41 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 13:55:42 << 250 2.1.0 OK o185sm4632427pfg.113 - gsmtp<EOL>
+21-11-21 13:55:42 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 13:55:42 << 250 2.1.5 OK o185sm4632427pfg.113 - gsmtp<EOL>
+21-11-21 13:55:42 >> DATA<EOL>
+21-11-21 13:55:42 << 354  Go ahead o185sm4632427pfg.113 - gsmtp<EOL>
+21-11-21 13:55:42 >> Date: Sun, 21 Nov 2021 13:55:42 +0530<EOL>
+21-11-21 13:55:42 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-11-21 13:55:42 >> Subject: Reset Code<EOL>
+21-11-21 13:55:42 >> <EOL>
+21-11-21 13:55:42 >> Your reset code is 773830<EOL>
+21-11-21 13:55:42 >> .<EOL>
+21-11-21 13:55:43 << 250 2.0.0 OK  1637483146 o185sm4632427pfg.113 - gsmtp<EOL>
+21-11-21 13:55:43 >> QUIT<EOL>
+21-11-21 13:55:43 << 221 2.0.0 closing connection o185sm4632427pfg.113 - gsmtp<EOL>
+21-11-21 13:55:43 ** Disconnecting from smtp.gmail.com:587
+21-11-21 13:55:43 ** Disconnected.
+21-11-21 13:55:43 ** Disconnected.
+21-11-21 14:47:54 ** --- MESSAGE BEGIN ---
+21-11-21 14:47:54 ** To: dj.1.2.20.dj@gmail.com
+21-11-21 14:47:54 ** Subject: Reset Code
+21-11-21 14:47:54 ** 
+21-11-21 14:47:54 ** Your reset code is 399196
+21-11-21 14:47:54 ** --- MESSAGE END ---
+21-11-21 14:47:55 ** Connecting to smtp.gmail.com:587
+21-11-21 14:47:56 ** Connected.
+21-11-21 14:47:57 << 220 smtp.gmail.com ESMTP k26sm4784676pfe.78 - gsmtp<EOL>
+21-11-21 14:47:57 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 14:47:58 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 14:47:58 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-11-21 14:47:58 >> STARTTLS<EOL>
+21-11-21 14:47:58 << 220 2.0.0 Ready to start TLS<EOL>
+21-11-21 14:47:58 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 14:47:58 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 14:47:58 >> AUTH LOGIN<EOL>
+21-11-21 14:47:58 << 334 VXNlcm5hbWU6<EOL>
+21-11-21 14:47:58 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-11-21 14:47:59 << 334 UGFzc3dvcmQ6<EOL>
+21-11-21 14:47:59 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-11-21 14:47:59 << 235 2.7.0 Accepted<EOL>
+21-11-21 14:47:59 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 14:47:59 << 250 2.1.0 OK k26sm4784676pfe.78 - gsmtp<EOL>
+21-11-21 14:47:59 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 14:48:00 << 250 2.1.5 OK k26sm4784676pfe.78 - gsmtp<EOL>
+21-11-21 14:48:00 >> DATA<EOL>
+21-11-21 14:48:00 << 354  Go ahead k26sm4784676pfe.78 - gsmtp<EOL>
+21-11-21 14:48:00 >> Date: Sun, 21 Nov 2021 14:48:00 +0530<EOL>
+21-11-21 14:48:00 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-11-21 14:48:00 >> Subject: Reset Code<EOL>
+21-11-21 14:48:00 >> <EOL>
+21-11-21 14:48:00 >> Your reset code is 399196<EOL>
+21-11-21 14:48:00 >> .<EOL>
+21-11-21 14:48:01 << 250 2.0.0 OK  1637486284 k26sm4784676pfe.78 - gsmtp<EOL>
+21-11-21 14:48:01 >> QUIT<EOL>
+21-11-21 14:48:01 << 221 2.0.0 closing connection k26sm4784676pfe.78 - gsmtp<EOL>
+21-11-21 14:48:01 ** Disconnecting from smtp.gmail.com:587
+21-11-21 14:48:01 ** Disconnected.
+21-11-21 14:48:01 ** Disconnected.
+21-11-21 14:48:19 ** --- MESSAGE BEGIN ---
+21-11-21 14:48:19 ** To: dj.1.2.20.dj@gmail.com
+21-11-21 14:48:19 ** Subject: Reset Code
+21-11-21 14:48:19 ** 
+21-11-21 14:48:19 ** Your reset code is 124963
+21-11-21 14:48:19 ** --- MESSAGE END ---
+21-11-21 14:48:20 ** Connecting to smtp.gmail.com:587
+21-11-21 14:48:20 ** Connected.
+21-11-21 14:48:22 << 220 smtp.gmail.com ESMTP c6sm4712710pfd.114 - gsmtp<EOL>
+21-11-21 14:48:22 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 14:48:22 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 14:48:22 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-11-21 14:48:22 >> STARTTLS<EOL>
+21-11-21 14:48:22 << 220 2.0.0 Ready to start TLS<EOL>
+21-11-21 14:48:22 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 14:48:22 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 14:48:22 >> AUTH LOGIN<EOL>
+21-11-21 14:48:23 << 334 VXNlcm5hbWU6<EOL>
+21-11-21 14:48:23 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-11-21 14:48:23 << 334 UGFzc3dvcmQ6<EOL>
+21-11-21 14:48:23 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-11-21 14:48:23 << 235 2.7.0 Accepted<EOL>
+21-11-21 14:48:23 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 14:48:24 << 250 2.1.0 OK c6sm4712710pfd.114 - gsmtp<EOL>
+21-11-21 14:48:24 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 14:48:24 << 250 2.1.5 OK c6sm4712710pfd.114 - gsmtp<EOL>
+21-11-21 14:48:24 >> DATA<EOL>
+21-11-21 14:48:24 << 354  Go ahead c6sm4712710pfd.114 - gsmtp<EOL>
+21-11-21 14:48:24 >> Date: Sun, 21 Nov 2021 14:48:24 +0530<EOL>
+21-11-21 14:48:24 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-11-21 14:48:24 >> Subject: Reset Code<EOL>
+21-11-21 14:48:24 >> <EOL>
+21-11-21 14:48:24 >> Your reset code is 124963<EOL>
+21-11-21 14:48:24 >> .<EOL>
+21-11-21 14:48:25 << 250 2.0.0 OK  1637486307 c6sm4712710pfd.114 - gsmtp<EOL>
+21-11-21 14:48:25 >> QUIT<EOL>
+21-11-21 14:48:25 << 221 2.0.0 closing connection c6sm4712710pfd.114 - gsmtp<EOL>
+21-11-21 14:48:25 ** Disconnecting from smtp.gmail.com:587
+21-11-21 14:48:25 ** Disconnected.
+21-11-21 14:48:25 ** Disconnected.
+21-11-21 14:48:34 ** --- MESSAGE BEGIN ---
+21-11-21 14:48:34 ** To: dj.1.2.20.dj@gmail.com
+21-11-21 14:48:34 ** Subject: Reset Code
+21-11-21 14:48:34 ** 
+21-11-21 14:48:34 ** Your reset code is 169727
+21-11-21 14:48:34 ** --- MESSAGE END ---
+21-11-21 14:48:35 ** Connecting to smtp.gmail.com:587
+21-11-21 14:48:36 ** Connected.
+21-11-21 14:48:37 << 220 smtp.gmail.com ESMTP q17sm5303307pfu.117 - gsmtp<EOL>
+21-11-21 14:48:37 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 14:48:37 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 14:48:37 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-11-21 14:48:37 >> STARTTLS<EOL>
+21-11-21 14:48:38 << 220 2.0.0 Ready to start TLS<EOL>
+21-11-21 14:48:38 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 14:48:38 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 14:48:38 >> AUTH LOGIN<EOL>
+21-11-21 14:48:39 << 334 VXNlcm5hbWU6<EOL>
+21-11-21 14:48:39 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-11-21 14:48:39 << 334 UGFzc3dvcmQ6<EOL>
+21-11-21 14:48:39 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-11-21 14:48:39 << 235 2.7.0 Accepted<EOL>
+21-11-21 14:48:39 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 14:48:40 << 250 2.1.0 OK q17sm5303307pfu.117 - gsmtp<EOL>
+21-11-21 14:48:40 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 14:48:40 << 250 2.1.5 OK q17sm5303307pfu.117 - gsmtp<EOL>
+21-11-21 14:48:40 >> DATA<EOL>
+21-11-21 14:48:40 << 354  Go ahead q17sm5303307pfu.117 - gsmtp<EOL>
+21-11-21 14:48:40 >> Date: Sun, 21 Nov 2021 14:48:40 +0530<EOL>
+21-11-21 14:48:40 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-11-21 14:48:40 >> Subject: Reset Code<EOL>
+21-11-21 14:48:40 >> <EOL>
+21-11-21 14:48:40 >> Your reset code is 169727<EOL>
+21-11-21 14:48:40 >> .<EOL>
+21-11-21 14:48:41 << 250 2.0.0 OK  1637486323 q17sm5303307pfu.117 - gsmtp<EOL>
+21-11-21 14:48:41 >> QUIT<EOL>
+21-11-21 14:48:41 << 221 2.0.0 closing connection q17sm5303307pfu.117 - gsmtp<EOL>
+21-11-21 14:48:41 ** Disconnecting from smtp.gmail.com:587
+21-11-21 14:48:41 ** Disconnected.
+21-11-21 14:48:41 ** Disconnected.
+21-11-21 15:47:53 ** --- MESSAGE BEGIN ---
+21-11-21 15:47:53 ** To: dj.1.2.20.dj@gmail.com
+21-11-21 15:47:53 ** Subject: Reset Code
+21-11-21 15:47:53 ** 
+21-11-21 15:47:53 ** Your reset code is 227352
+21-11-21 15:47:53 ** --- MESSAGE END ---
+21-11-21 15:47:54 ** Connecting to smtp.gmail.com:587
+21-11-21 15:47:54 ** Connected.
+21-11-21 15:47:55 << 220 smtp.gmail.com ESMTP on6sm18177598pjb.47 - gsmtp<EOL>
+21-11-21 15:47:55 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 15:47:56 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 15:47:56 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-11-21 15:47:56 >> STARTTLS<EOL>
+21-11-21 15:47:56 << 220 2.0.0 Ready to start TLS<EOL>
+21-11-21 15:47:56 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-21 15:47:57 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-21 15:47:57 >> AUTH LOGIN<EOL>
+21-11-21 15:47:57 << 334 VXNlcm5hbWU6<EOL>
+21-11-21 15:47:57 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-11-21 15:47:57 << 334 UGFzc3dvcmQ6<EOL>
+21-11-21 15:47:57 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-11-21 15:47:57 << 235 2.7.0 Accepted<EOL>
+21-11-21 15:47:57 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 15:47:58 << 250 2.1.0 OK on6sm18177598pjb.47 - gsmtp<EOL>
+21-11-21 15:47:58 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-21 15:47:58 << 250 2.1.5 OK on6sm18177598pjb.47 - gsmtp<EOL>
+21-11-21 15:47:58 >> DATA<EOL>
+21-11-21 15:47:58 << 354  Go ahead on6sm18177598pjb.47 - gsmtp<EOL>
+21-11-21 15:47:58 >> Date: Sun, 21 Nov 2021 15:47:58 +0530<EOL>
+21-11-21 15:47:58 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-11-21 15:47:58 >> Subject: Reset Code<EOL>
+21-11-21 15:47:58 >> <EOL>
+21-11-21 15:47:58 >> Your reset code is 227352<EOL>
+21-11-21 15:47:58 >> .<EOL>
+21-11-21 15:47:59 << 250 2.0.0 OK  1637489882 on6sm18177598pjb.47 - gsmtp<EOL>
+21-11-21 15:47:59 >> QUIT<EOL>
+21-11-21 15:47:59 << 221 2.0.0 closing connection on6sm18177598pjb.47 - gsmtp<EOL>
+21-11-21 15:47:59 ** Disconnected.
+21-11-21 15:47:59 ** Disconnected.
+21-11-21 15:47:59 ** Disconnected.
+21-11-22 12:38:24 ** --- MESSAGE BEGIN ---
+21-11-22 12:38:24 ** To: dj.1.2.20.dj@gmail.com
+21-11-22 12:38:24 ** Subject: Reset Code
+21-11-22 12:38:24 ** 
+21-11-22 12:38:24 ** Your reset code is 56360
+21-11-22 12:38:24 ** --- MESSAGE END ---
+21-11-22 12:38:25 ** Connecting to smtp.gmail.com:587
+21-11-22 12:38:26 ** Connected.
+21-11-22 12:38:27 << 220 smtp.gmail.com ESMTP mi18sm6733502pjb.13 - gsmtp<EOL>
+21-11-22 12:38:27 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-22 12:38:27 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-22 12:38:27 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-11-22 12:38:27 >> STARTTLS<EOL>
+21-11-22 12:38:27 << 220 2.0.0 Ready to start TLS<EOL>
+21-11-22 12:38:28 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-22 12:38:28 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-22 12:38:28 >> AUTH LOGIN<EOL>
+21-11-22 12:38:28 << 334 VXNlcm5hbWU6<EOL>
+21-11-22 12:38:28 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-11-22 12:38:28 << 334 UGFzc3dvcmQ6<EOL>
+21-11-22 12:38:28 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-11-22 12:38:29 << 235 2.7.0 Accepted<EOL>
+21-11-22 12:38:29 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-22 12:38:29 << 250 2.1.0 OK mi18sm6733502pjb.13 - gsmtp<EOL>
+21-11-22 12:38:29 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-22 12:38:29 << 250 2.1.5 OK mi18sm6733502pjb.13 - gsmtp<EOL>
+21-11-22 12:38:29 >> DATA<EOL>
+21-11-22 12:38:30 << 354  Go ahead mi18sm6733502pjb.13 - gsmtp<EOL>
+21-11-22 12:38:30 >> Date: Mon, 22 Nov 2021 12:38:30 +0530<EOL>
+21-11-22 12:38:30 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-11-22 12:38:30 >> Subject: Reset Code<EOL>
+21-11-22 12:38:30 >> <EOL>
+21-11-22 12:38:30 >> Your reset code is 56360<EOL>
+21-11-22 12:38:30 >> .<EOL>
+21-11-22 12:38:30 << 250 2.0.0 OK  1637564914 mi18sm6733502pjb.13 - gsmtp<EOL>
+21-11-22 12:38:30 >> QUIT<EOL>
+21-11-22 12:38:31 << 221 2.0.0 closing connection mi18sm6733502pjb.13 - gsmtp<EOL>
+21-11-22 12:38:31 ** Disconnecting from smtp.gmail.com:587
+21-11-22 12:38:31 ** Disconnected.
+21-11-22 12:38:31 ** Disconnected.
+21-11-22 12:39:01 ** --- MESSAGE BEGIN ---
+21-11-22 12:39:01 ** To: dj.1.2.20.dj@gmail.com
+21-11-22 12:39:01 ** Subject: Reset Code
+21-11-22 12:39:01 ** 
+21-11-22 12:39:01 ** Your reset code is 531861
+21-11-22 12:39:01 ** --- MESSAGE END ---
+21-11-22 12:39:02 ** Connecting to smtp.gmail.com:587
+21-11-22 12:39:02 ** Connected.
+21-11-22 12:39:04 << 220 smtp.gmail.com ESMTP d24sm7184923pfn.62 - gsmtp<EOL>
+21-11-22 12:39:04 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-22 12:39:04 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-22 12:39:04 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-11-22 12:39:04 >> STARTTLS<EOL>
+21-11-22 12:39:04 << 220 2.0.0 Ready to start TLS<EOL>
+21-11-22 12:39:04 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-11-22 12:39:05 << 250-smtp.gmail.com at your service, [103.30.227.36]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-11-22 12:39:05 >> AUTH LOGIN<EOL>
+21-11-22 12:39:05 << 334 VXNlcm5hbWU6<EOL>
+21-11-22 12:39:05 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-11-22 12:39:05 << 334 UGFzc3dvcmQ6<EOL>
+21-11-22 12:39:05 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-11-22 12:39:06 << 235 2.7.0 Accepted<EOL>
+21-11-22 12:39:06 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-22 12:39:06 << 250 2.1.0 OK d24sm7184923pfn.62 - gsmtp<EOL>
+21-11-22 12:39:06 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-11-22 12:39:06 << 250 2.1.5 OK d24sm7184923pfn.62 - gsmtp<EOL>
+21-11-22 12:39:06 >> DATA<EOL>
+21-11-22 12:39:06 << 354  Go ahead d24sm7184923pfn.62 - gsmtp<EOL>
+21-11-22 12:39:06 >> Date: Mon, 22 Nov 2021 12:39:06 +0530<EOL>
+21-11-22 12:39:06 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-11-22 12:39:06 >> Subject: Reset Code<EOL>
+21-11-22 12:39:06 >> <EOL>
+21-11-22 12:39:06 >> Your reset code is 531861<EOL>
+21-11-22 12:39:06 >> .<EOL>
+21-11-22 12:39:07 << 250 2.0.0 OK  1637564950 d24sm7184923pfn.62 - gsmtp<EOL>
+21-11-22 12:39:07 >> QUIT<EOL>
+21-11-22 12:39:07 << 221 2.0.0 closing connection d24sm7184923pfn.62 - gsmtp<EOL>
+21-11-22 12:39:07 ** Disconnecting from smtp.gmail.com:587
+21-11-22 12:39:07 ** Disconnected.
+21-11-22 12:39:07 ** Disconnected.
+21-12-03 19:33:45 ** --- MESSAGE BEGIN ---
+21-12-03 19:33:45 ** To: dj.1.2.20.dj@gmail.com
+21-12-03 19:33:45 ** Subject: Reset Code
+21-12-03 19:33:45 ** 
+21-12-03 19:33:45 ** Your reset code is 115547
+21-12-03 19:33:45 ** --- MESSAGE END ---
+21-12-03 19:33:46 ** Connecting to smtp.gmail.com:587
+21-12-03 19:33:46 ** Connected.
+21-12-03 19:33:48 << 220 smtp.gmail.com ESMTP t2sm3658898pfd.36 - gsmtp<EOL>
+21-12-03 19:33:48 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-12-03 19:33:48 << 250-smtp.gmail.com at your service, [103.30.227.138]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-12-03 19:33:48 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-12-03 19:33:48 >> STARTTLS<EOL>
+21-12-03 19:33:49 << 220 2.0.0 Ready to start TLS<EOL>
+21-12-03 19:33:49 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-12-03 19:33:50 << 250-smtp.gmail.com at your service, [103.30.227.138]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-12-03 19:33:50 >> AUTH LOGIN<EOL>
+21-12-03 19:33:50 << 334 VXNlcm5hbWU6<EOL>
+21-12-03 19:33:50 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-12-03 19:33:50 << 334 UGFzc3dvcmQ6<EOL>
+21-12-03 19:33:50 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-12-03 19:33:51 << 235 2.7.0 Accepted<EOL>
+21-12-03 19:33:51 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-12-03 19:33:51 << 250 2.1.0 OK t2sm3658898pfd.36 - gsmtp<EOL>
+21-12-03 19:33:51 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-12-03 19:33:52 << 250 2.1.5 OK t2sm3658898pfd.36 - gsmtp<EOL>
+21-12-03 19:33:52 >> DATA<EOL>
+21-12-03 19:33:54 << 354  Go ahead t2sm3658898pfd.36 - gsmtp<EOL>
+21-12-03 19:33:54 >> Date: Fri, 3 Dec 2021 19:33:54 +0530<EOL>
+21-12-03 19:33:54 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-12-03 19:33:54 >> Subject: Reset Code<EOL>
+21-12-03 19:33:54 >> <EOL>
+21-12-03 19:33:54 >> Your reset code is 115547<EOL>
+21-12-03 19:33:54 >> .<EOL>
+21-12-03 19:33:55 << 250 2.0.0 OK  1638540235 t2sm3658898pfd.36 - gsmtp<EOL>
+21-12-03 19:33:55 >> QUIT<EOL>
+21-12-03 19:33:55 << 221 2.0.0 closing connection t2sm3658898pfd.36 - gsmtp<EOL>
+21-12-03 19:33:55 ** Disconnected.
+21-12-03 19:33:55 ** Disconnected.
+21-12-03 19:33:55 ** Disconnected.
+21-12-03 19:34:24 ** --- MESSAGE BEGIN ---
+21-12-03 19:34:24 ** To: dj.1.2.20.dj@gmail.com
+21-12-03 19:34:24 ** Subject: Reset Code
+21-12-03 19:34:24 ** 
+21-12-03 19:34:24 ** Your reset code is 815510
+21-12-03 19:34:24 ** --- MESSAGE END ---
+21-12-03 19:34:25 ** Connecting to smtp.gmail.com:587
+21-12-03 19:34:25 ** Connected.
+21-12-03 19:34:27 << 220 smtp.gmail.com ESMTP oc10sm5760765pjb.26 - gsmtp<EOL>
+21-12-03 19:34:27 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-12-03 19:34:27 << 250-smtp.gmail.com at your service, [103.30.227.138]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-12-03 19:34:27 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-12-03 19:34:27 >> STARTTLS<EOL>
+21-12-03 19:34:27 << 220 2.0.0 Ready to start TLS<EOL>
+21-12-03 19:34:28 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-12-03 19:34:28 << 250-smtp.gmail.com at your service, [103.30.227.138]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-12-03 19:34:28 >> AUTH LOGIN<EOL>
+21-12-03 19:34:28 << 334 VXNlcm5hbWU6<EOL>
+21-12-03 19:34:28 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-12-03 19:34:29 << 334 UGFzc3dvcmQ6<EOL>
+21-12-03 19:34:29 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-12-03 19:34:29 << 235 2.7.0 Accepted<EOL>
+21-12-03 19:34:29 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-12-03 19:34:29 << 250 2.1.0 OK oc10sm5760765pjb.26 - gsmtp<EOL>
+21-12-03 19:34:29 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-12-03 19:34:30 << 250 2.1.5 OK oc10sm5760765pjb.26 - gsmtp<EOL>
+21-12-03 19:34:30 >> DATA<EOL>
+21-12-03 19:34:30 << 354  Go ahead oc10sm5760765pjb.26 - gsmtp<EOL>
+21-12-03 19:34:30 >> Date: Fri, 3 Dec 2021 19:34:30 +0530<EOL>
+21-12-03 19:34:30 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-12-03 19:34:30 >> Subject: Reset Code<EOL>
+21-12-03 19:34:30 >> <EOL>
+21-12-03 19:34:30 >> Your reset code is 815510<EOL>
+21-12-03 19:34:30 >> .<EOL>
+21-12-03 19:34:31 << 250 2.0.0 OK  1638540272 oc10sm5760765pjb.26 - gsmtp<EOL>
+21-12-03 19:34:31 >> QUIT<EOL>
+21-12-03 19:34:32 << 221 2.0.0 closing connection oc10sm5760765pjb.26 - gsmtp<EOL>
+21-12-03 19:34:32 ** Disconnected.
+21-12-03 19:34:32 ** Disconnected.
+21-12-03 19:34:32 ** Disconnected.
+21-12-03 19:35:11 ** --- MESSAGE BEGIN ---
+21-12-03 19:35:11 ** To: dj.1.2.20.dj@gmail.com
+21-12-03 19:35:11 ** Subject: Reset Code
+21-12-03 19:35:11 ** 
+21-12-03 19:35:11 ** Your reset code is 305216
+21-12-03 19:35:11 ** --- MESSAGE END ---
+21-12-03 19:35:12 ** Connecting to smtp.gmail.com:587
+21-12-03 19:35:12 ** Connected.
+21-12-03 19:35:14 << 220 smtp.gmail.com ESMTP z2sm2851149pfh.188 - gsmtp<EOL>
+21-12-03 19:35:14 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-12-03 19:35:14 << 250-smtp.gmail.com at your service, [103.30.227.138]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-12-03 19:35:14 ** Authenticating as dj.1.2.20.dj@gmail.com
+21-12-03 19:35:14 >> STARTTLS<EOL>
+21-12-03 19:35:15 << 220 2.0.0 Ready to start TLS<EOL>
+21-12-03 19:35:15 >> EHLO LAPTOP-N1RIMF2S<EOL>
+21-12-03 19:35:16 << 250-smtp.gmail.com at your service, [103.30.227.138]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21-12-03 19:35:16 >> AUTH LOGIN<EOL>
+21-12-03 19:35:16 << 334 VXNlcm5hbWU6<EOL>
+21-12-03 19:35:16 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+21-12-03 19:35:16 << 334 UGFzc3dvcmQ6<EOL>
+21-12-03 19:35:16 >> ZGhhaXJ5YTEyMjA=<EOL>
+21-12-03 19:35:17 << 235 2.7.0 Accepted<EOL>
+21-12-03 19:35:17 >> MAIL FROM: <dj.1.2.20.dj@gmail.com><EOL>
+21-12-03 19:35:17 << 250 2.1.0 OK z2sm2851149pfh.188 - gsmtp<EOL>
+21-12-03 19:35:17 >> RCPT TO: <dj.1.2.20.dj@gmail.com><EOL>
+21-12-03 19:35:18 << 250 2.1.5 OK z2sm2851149pfh.188 - gsmtp<EOL>
+21-12-03 19:35:18 >> DATA<EOL>
+21-12-03 19:35:18 << 354  Go ahead z2sm2851149pfh.188 - gsmtp<EOL>
+21-12-03 19:35:18 >> Date: Fri, 3 Dec 2021 19:35:18 +0530<EOL>
+21-12-03 19:35:18 >> To: dj.1.2.20.dj@gmail.com<EOL>
+21-12-03 19:35:18 >> Subject: Reset Code<EOL>
+21-12-03 19:35:18 >> <EOL>
+21-12-03 19:35:18 >> Your reset code is 305216<EOL>
+21-12-03 19:35:18 >> .<EOL>
+21-12-03 19:35:19 << 250 2.0.0 OK  1638540319 z2sm2851149pfh.188 - gsmtp<EOL>
+21-12-03 19:35:19 >> QUIT<EOL>
+21-12-03 19:35:19 << 221 2.0.0 closing connection z2sm2851149pfh.188 - gsmtp<EOL>
+21-12-03 19:35:19 ** Disconnecting from smtp.gmail.com:587
+21-12-03 19:35:19 ** Disconnected.
+21-12-03 19:35:19 ** Disconnected.
+21-12-08 14:56:21 ** --- MESSAGE BEGIN ---
+21-12-08 14:56:21 ** To: dj.1.2.20.dj@gmail.com
+21-12-08 14:56:21 ** Subject: Reset Code
+21-12-08 14:56:21 ** 
+21-12-08 14:56:21 ** Your reset code is 782483
+21-12-08 14:56:21 ** --- MESSAGE END ---
+21-12-08 14:56:22 ** Connecting to smtp.gmail.com:587
+21-12-08 14:56:22 ** Disconnected.
+21-12-08 14:56:22 ** Disconnected.
+21-12-08 14:56:22 ** Disconnected.
+21-12-08 14:56:22 ** Socket Error # 11001<EOL>Host not found.
+22-01-08 23:40:08 ** --- MESSAGE BEGIN ---
+22-01-08 23:40:08 ** To: dj.1.2.20.dj@gmail.com
+22-01-08 23:40:08 ** Subject: Reset Code
+22-01-08 23:40:08 ** 
+22-01-08 23:40:08 ** Your reset code is 399115
+22-01-08 23:40:08 ** --- MESSAGE END ---
+22-01-08 23:40:09 ** Connecting to smtp.gmail.com:587
+22-01-08 23:40:10 ** Connected.
+22-01-08 23:40:10 << 220 smtp.gmail.com ESMTP k20sm2509333pfk.111 - gsmtp<EOL>
+22-01-08 23:40:10 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-08 23:40:11 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-08 23:40:11 ** Authenticating as dj.1.2.20.dj@gmail.com
+22-01-08 23:40:11 >> STARTTLS<EOL>
+22-01-08 23:40:11 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-08 23:40:11 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-08 23:40:11 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-08 23:40:11 >> AUTH LOGIN<EOL>
+22-01-08 23:40:12 << 334 VXNlcm5hbWU6<EOL>
+22-01-08 23:40:12 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+22-01-08 23:40:12 << 334 UGFzc3dvcmQ6<EOL>
+22-01-08 23:40:12 >> ZGhhaXJ5YTEyMjA=<EOL>
+22-01-08 23:40:12 << 534-5.7.9 Application-specific password required. Learn more at<EOL>534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor k20sm2509333pfk.111 - gsmtp<EOL>
+22-01-08 23:40:12 ** Disconnecting from smtp.gmail.com:587
+22-01-08 23:40:12 ** Disconnected.
+22-01-08 23:40:12 ** Disconnected.
+22-01-08 23:40:12 ** Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor k20sm2509333pfk.111 - gsmtp<EOL>
+22-01-08 23:40:40 ** --- MESSAGE BEGIN ---
+22-01-08 23:40:40 ** To: dj.1.2.20.dj@gmail.com
+22-01-08 23:40:40 ** Subject: Reset Code
+22-01-08 23:40:40 ** 
+22-01-08 23:40:40 ** Your reset code is 587499
+22-01-08 23:40:40 ** --- MESSAGE END ---
+22-01-08 23:40:41 ** Connecting to smtp.gmail.com:587
+22-01-08 23:40:42 ** Connected.
+22-01-08 23:40:42 << 220 smtp.gmail.com ESMTP i11sm2587009pfq.206 - gsmtp<EOL>
+22-01-08 23:40:42 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-08 23:40:42 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-08 23:40:42 ** Authenticating as dj.1.2.20.dj@gmail.com
+22-01-08 23:40:42 >> STARTTLS<EOL>
+22-01-08 23:40:42 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-08 23:40:43 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-08 23:40:43 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-08 23:40:43 >> AUTH LOGIN<EOL>
+22-01-08 23:40:43 << 334 VXNlcm5hbWU6<EOL>
+22-01-08 23:40:43 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+22-01-08 23:40:43 << 334 UGFzc3dvcmQ6<EOL>
+22-01-08 23:40:43 >> ZGhhaXJ5YTEyMjA=<EOL>
+22-01-08 23:40:44 << 534-5.7.9 Application-specific password required. Learn more at<EOL>534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor i11sm2587009pfq.206 - gsmtp<EOL>
+22-01-08 23:40:44 ** Disconnecting from smtp.gmail.com:587
+22-01-08 23:40:44 ** Disconnected.
+22-01-08 23:40:44 ** Disconnected.
+22-01-08 23:40:44 ** Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor i11sm2587009pfq.206 - gsmtp<EOL>
+22-01-08 23:42:15 ** --- MESSAGE BEGIN ---
+22-01-08 23:42:15 ** To: dj.1.2.20.dj@gmail.com
+22-01-08 23:42:15 ** Subject: Reset Code
+22-01-08 23:42:15 ** 
+22-01-08 23:42:15 ** Your reset code is 876894
+22-01-08 23:42:15 ** --- MESSAGE END ---
+22-01-08 23:42:16 ** Connecting to smtp.gmail.com:587
+22-01-08 23:42:16 ** Connected.
+22-01-08 23:42:17 << 220 smtp.gmail.com ESMTP w4sm2471373pjq.7 - gsmtp<EOL>
+22-01-08 23:42:17 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-08 23:42:17 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-08 23:42:17 ** Authenticating as dj.1.2.20.dj@gmail.com
+22-01-08 23:42:17 >> STARTTLS<EOL>
+22-01-08 23:42:17 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-08 23:42:18 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-08 23:42:18 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-08 23:42:18 >> AUTH LOGIN<EOL>
+22-01-08 23:42:18 << 334 VXNlcm5hbWU6<EOL>
+22-01-08 23:42:18 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+22-01-08 23:42:18 << 334 UGFzc3dvcmQ6<EOL>
+22-01-08 23:42:18 >> ZGhhaXJ5YTEyMjA=<EOL>
+22-01-08 23:42:19 << 534-5.7.9 Application-specific password required. Learn more at<EOL>534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor w4sm2471373pjq.7 - gsmtp<EOL>
+22-01-08 23:42:19 ** Disconnecting from smtp.gmail.com:587
+22-01-08 23:42:19 ** Disconnected.
+22-01-08 23:42:19 ** Disconnected.
+22-01-08 23:42:19 ** Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor w4sm2471373pjq.7 - gsmtp<EOL>
+22-01-08 23:43:07 ** --- MESSAGE BEGIN ---
+22-01-08 23:43:07 ** To: dj.1.2.20.dj@gmail.com
+22-01-08 23:43:07 ** Subject: Reset Code
+22-01-08 23:43:07 ** 
+22-01-08 23:43:07 ** Your reset code is 527216
+22-01-08 23:43:07 ** --- MESSAGE END ---
+22-01-08 23:43:08 ** Connecting to smtp.gmail.com:587
+22-01-08 23:43:08 ** Connected.
+22-01-08 23:43:08 << 220 smtp.gmail.com ESMTP kb1sm2556474pjb.45 - gsmtp<EOL>
+22-01-08 23:43:08 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-08 23:43:09 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-08 23:43:09 ** Authenticating as dj.1.2.20.dj@gmail.com
+22-01-08 23:43:09 >> STARTTLS<EOL>
+22-01-08 23:43:09 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-08 23:43:09 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-08 23:43:10 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-08 23:43:10 >> AUTH LOGIN<EOL>
+22-01-08 23:43:10 << 334 VXNlcm5hbWU6<EOL>
+22-01-08 23:43:10 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+22-01-08 23:43:10 << 334 UGFzc3dvcmQ6<EOL>
+22-01-08 23:43:10 >> ZGhhaXJ5YTEyMjA=<EOL>
+22-01-08 23:43:11 << 534-5.7.9 Application-specific password required. Learn more at<EOL>534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor kb1sm2556474pjb.45 - gsmtp<EOL>
+22-01-08 23:43:11 ** Disconnecting from smtp.gmail.com:587
+22-01-08 23:43:11 ** Disconnected.
+22-01-08 23:43:11 ** Disconnected.
+22-01-08 23:43:11 ** Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor kb1sm2556474pjb.45 - gsmtp<EOL>
+22-01-09 00:16:40 ** --- MESSAGE BEGIN ---
+22-01-09 00:16:40 ** To: dj.1.2.20.dj@gmail.com
+22-01-09 00:16:40 ** Subject: Reset Code
+22-01-09 00:16:40 ** 
+22-01-09 00:16:40 ** Your reset code is 228206
+22-01-09 00:16:40 ** --- MESSAGE END ---
+22-01-09 00:16:41 ** Connecting to smtp.gmail.com:587
+22-01-09 00:16:41 ** Connected.
+22-01-09 00:16:41 << 220 smtp.gmail.com ESMTP go19sm744165pjb.25 - gsmtp<EOL>
+22-01-09 00:16:41 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-09 00:16:42 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-09 00:16:42 ** Authenticating as dj.1.2.20.dj@gmail.com
+22-01-09 00:16:42 >> STARTTLS<EOL>
+22-01-09 00:16:42 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-09 00:16:42 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-09 00:16:43 << 250-smtp.gmail.com at your service, [114.31.180.10]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-09 00:16:43 >> AUTH LOGIN<EOL>
+22-01-09 00:16:43 << 334 VXNlcm5hbWU6<EOL>
+22-01-09 00:16:43 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+22-01-09 00:16:43 << 334 UGFzc3dvcmQ6<EOL>
+22-01-09 00:16:43 >> ZGhhaXJ5YTEyMjA=<EOL>
+22-01-09 00:16:43 << 534-5.7.9 Application-specific password required. Learn more at<EOL>534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor go19sm744165pjb.25 - gsmtp<EOL>
+22-01-09 00:16:43 ** Disconnecting from smtp.gmail.com:587
+22-01-09 00:16:43 ** Disconnected.
+22-01-09 00:16:43 ** Disconnected.
+22-01-09 00:16:43 ** Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor go19sm744165pjb.25 - gsmtp<EOL>
+22-01-10 18:11:59 ** --- MESSAGE BEGIN ---
+22-01-10 18:11:59 ** To: dj.1.2.20.dj@gmail.com
+22-01-10 18:11:59 ** Subject: Reset Code
+22-01-10 18:11:59 ** 
+22-01-10 18:11:59 ** Your reset code is 435560
+22-01-10 18:11:59 ** --- MESSAGE END ---
+22-01-10 18:12:00 ** Connecting to smtp.gmail.com:587
+22-01-10 18:12:01 ** Connected.
+22-01-10 18:12:03 << 220 smtp.gmail.com ESMTP c6sm6894665pfv.62 - gsmtp<EOL>
+22-01-10 18:12:03 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-10 18:12:03 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-10 18:12:03 ** Authenticating as dj.1.2.20.dj@gmail.com
+22-01-10 18:12:03 >> STARTTLS<EOL>
+22-01-10 18:12:03 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-10 18:12:03 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-10 18:12:03 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-10 18:12:03 >> AUTH LOGIN<EOL>
+22-01-10 18:12:04 << 334 VXNlcm5hbWU6<EOL>
+22-01-10 18:12:04 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+22-01-10 18:12:04 << 334 UGFzc3dvcmQ6<EOL>
+22-01-10 18:12:04 >> ZGhhaXJ5YTEyMjA=<EOL>
+22-01-10 18:12:04 << 534-5.7.9 Application-specific password required. Learn more at<EOL>534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor c6sm6894665pfv.62 - gsmtp<EOL>
+22-01-10 18:12:04 ** Disconnecting from smtp.gmail.com:587
+22-01-10 18:12:04 ** Disconnected.
+22-01-10 18:12:04 ** Disconnected.
+22-01-10 18:12:04 ** Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor c6sm6894665pfv.62 - gsmtp<EOL>
+22-01-11 11:04:34 ** --- MESSAGE BEGIN ---
+22-01-11 11:04:34 ** To: dj.1.2.20.dj@gmail.com
+22-01-11 11:04:34 ** Subject: Reset Code
+22-01-11 11:04:34 ** 
+22-01-11 11:04:34 ** Your reset code is 952236
+22-01-11 11:04:34 ** --- MESSAGE END ---
+22-01-11 11:04:35 ** Connecting to smtp.gmail.com:587
+22-01-11 11:04:35 ** Connected.
+22-01-11 11:04:37 << 220 smtp.gmail.com ESMTP q22sm618663pfu.153 - gsmtp<EOL>
+22-01-11 11:04:37 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-11 11:04:37 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-11 11:04:37 ** Authenticating as dj.1.2.20.dj@gmail.com
+22-01-11 11:04:37 >> STARTTLS<EOL>
+22-01-11 11:04:37 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-11 11:04:38 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-11 11:04:38 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-11 11:04:38 >> AUTH LOGIN<EOL>
+22-01-11 11:04:38 << 334 VXNlcm5hbWU6<EOL>
+22-01-11 11:04:38 >> ZGouMS4yLjIwLmRqQGdtYWlsLmNvbQ==<EOL>
+22-01-11 11:04:38 << 334 UGFzc3dvcmQ6<EOL>
+22-01-11 11:04:38 >> ZGhhaXJ5YTEyMjA=<EOL>
+22-01-11 11:04:39 << 534-5.7.9 Application-specific password required. Learn more at<EOL>534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor q22sm618663pfu.153 - gsmtp<EOL>
+22-01-11 11:04:39 ** Disconnecting from smtp.gmail.com:587
+22-01-11 11:04:39 ** Disconnected.
+22-01-11 11:04:39 ** Disconnected.
+22-01-11 11:04:39 ** Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor q22sm618663pfu.153 - gsmtp<EOL>
+22-01-17 15:34:29 ** --- MESSAGE BEGIN ---
+22-01-17 15:34:29 ** To: dj.1.2.20.dj@gmail.com
+22-01-17 15:34:29 ** Subject: Reset Code
+22-01-17 15:34:29 ** 
+22-01-17 15:34:29 ** Your reset code is 638124
+22-01-17 15:34:29 ** --- MESSAGE END ---
+22-01-17 15:34:30 ** Connecting to smtp.gmail.com:587
+22-01-17 15:34:30 ** Disconnected.
+22-01-17 15:34:30 ** Disconnected.
+22-01-17 15:34:30 ** Disconnected.
+22-01-17 15:34:30 ** Socket Error # 11001<EOL>Host not found.
+22-01-17 15:34:31 ** --- MESSAGE BEGIN ---
+22-01-17 15:34:31 ** To: dj.1.2.20.dj@gmail.com
+22-01-17 15:34:31 ** Subject: Reset Code
+22-01-17 15:34:31 ** 
+22-01-17 15:34:31 ** Your reset code is 587069
+22-01-17 15:34:31 ** --- MESSAGE END ---
+22-01-17 15:34:32 ** Connecting to smtp.gmail.com:587
+22-01-17 15:34:32 ** Disconnected.
+22-01-17 15:34:32 ** Disconnected.
+22-01-17 15:34:32 ** Disconnected.
+22-01-17 15:34:32 ** Socket Error # 11001<EOL>Host not found.
+22-01-20 11:34:35 ** --- MESSAGE BEGIN ---
+22-01-20 11:34:35 ** To: logisticwebsite21@gmail.com
+22-01-20 11:34:35 ** Subject: Reset Code
+22-01-20 11:34:35 ** 
+22-01-20 11:34:35 ** Your reset code is 320869
+22-01-20 11:34:35 ** --- MESSAGE END ---
+22-01-20 11:34:36 ** Connecting to smtp.gmail.com:587
+22-01-20 11:34:36 ** Connected.
+22-01-20 11:34:38 << 220 smtp.gmail.com ESMTP w10sm1435346pfn.153 - gsmtp<EOL>
+22-01-20 11:34:38 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-20 11:34:38 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-20 11:34:38 ** Authenticating as logisticwebsite21@gmail.com
+22-01-20 11:34:38 >> STARTTLS<EOL>
+22-01-20 11:34:38 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-20 11:34:39 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-20 11:34:39 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-20 11:34:39 >> AUTH LOGIN<EOL>
+22-01-20 11:34:39 << 334 VXNlcm5hbWU6<EOL>
+22-01-20 11:34:39 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-20 11:34:39 << 334 UGFzc3dvcmQ6<EOL>
+22-01-20 11:34:39 >> MTliY2EwMTc=<EOL>
+22-01-20 11:34:40 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials w10sm1435346pfn.153 - gsmtp<EOL>
+22-01-20 11:34:40 ** Disconnecting from smtp.gmail.com:587
+22-01-20 11:34:40 ** Disconnected.
+22-01-20 11:34:40 ** Disconnected.
+22-01-20 11:34:40 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials w10sm1435346pfn.153 - gsmtp<EOL>
+22-01-20 11:36:06 ** --- MESSAGE BEGIN ---
+22-01-20 11:36:06 ** To: logisticwebsite21@gmail.com
+22-01-20 11:36:06 ** Subject: Reset Code
+22-01-20 11:36:06 ** 
+22-01-20 11:36:06 ** Your reset code is 636233
+22-01-20 11:36:06 ** --- MESSAGE END ---
+22-01-20 11:36:07 ** Connecting to smtp.gmail.com:587
+22-01-20 11:36:07 ** Connected.
+22-01-20 11:36:08 << 220 smtp.gmail.com ESMTP t23sm1288468pgg.30 - gsmtp<EOL>
+22-01-20 11:36:08 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-20 11:36:09 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-20 11:36:09 ** Authenticating as logisticwebsite21@gmail.com
+22-01-20 11:36:09 >> STARTTLS<EOL>
+22-01-20 11:36:09 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-20 11:36:09 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-20 11:36:09 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-20 11:36:09 >> AUTH LOGIN<EOL>
+22-01-20 11:36:09 << 334 VXNlcm5hbWU6<EOL>
+22-01-20 11:36:09 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-20 11:36:10 << 334 UGFzc3dvcmQ6<EOL>
+22-01-20 11:36:10 >> MTliY2EwMTc=<EOL>
+22-01-20 11:36:10 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials t23sm1288468pgg.30 - gsmtp<EOL>
+22-01-20 11:36:10 ** Disconnecting from smtp.gmail.com:587
+22-01-20 11:36:10 ** Disconnected.
+22-01-20 11:36:10 ** Disconnected.
+22-01-20 11:36:10 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials t23sm1288468pgg.30 - gsmtp<EOL>
+22-01-20 11:38:13 ** --- MESSAGE BEGIN ---
+22-01-20 11:38:13 ** To: logisticwebsite21@gmail.com
+22-01-20 11:38:13 ** Subject: Reset Code
+22-01-20 11:38:13 ** 
+22-01-20 11:38:13 ** Your reset code is 943526
+22-01-20 11:38:13 ** --- MESSAGE END ---
+22-01-20 11:38:14 ** Connecting to smtp.gmail.com:587
+22-01-20 11:38:14 ** Connected.
+22-01-20 11:38:16 << 220 smtp.gmail.com ESMTP q8sm1661772pfl.194 - gsmtp<EOL>
+22-01-20 11:38:16 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-20 11:38:16 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-20 11:38:16 ** Authenticating as logisticwebsite21@gmail.com
+22-01-20 11:38:16 >> STARTTLS<EOL>
+22-01-20 11:38:16 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-20 11:38:17 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-20 11:38:17 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-20 11:38:17 >> AUTH LOGIN<EOL>
+22-01-20 11:38:17 << 334 VXNlcm5hbWU6<EOL>
+22-01-20 11:38:17 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-20 11:38:17 << 334 UGFzc3dvcmQ6<EOL>
+22-01-20 11:38:17 >> MTliY2EwMTc=<EOL>
+22-01-20 11:38:18 << 235 2.7.0 Accepted<EOL>
+22-01-20 11:38:18 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-20 11:38:18 << 250 2.1.0 OK q8sm1661772pfl.194 - gsmtp<EOL>
+22-01-20 11:38:18 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-20 11:38:18 << 250 2.1.5 OK q8sm1661772pfl.194 - gsmtp<EOL>
+22-01-20 11:38:18 >> DATA<EOL>
+22-01-20 11:38:19 << 354  Go ahead q8sm1661772pfl.194 - gsmtp<EOL>
+22-01-20 11:38:19 >> Date: Thu, 20 Jan 2022 11:38:19 +0530<EOL>
+22-01-20 11:38:19 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-20 11:38:19 >> Subject: Reset Code<EOL>
+22-01-20 11:38:19 >> <EOL>
+22-01-20 11:38:19 >> Your reset code is 943526<EOL>
+22-01-20 11:38:19 >> .<EOL>
+22-01-20 11:38:19 << 250 2.0.0 OK  1642658900 q8sm1661772pfl.194 - gsmtp<EOL>
+22-01-20 11:38:19 >> QUIT<EOL>
+22-01-20 11:38:20 << 221 2.0.0 closing connection q8sm1661772pfl.194 - gsmtp<EOL>
+22-01-20 11:38:20 ** Disconnecting from smtp.gmail.com:587
+22-01-20 11:38:20 ** Disconnected.
+22-01-20 11:38:20 ** Disconnected.
+22-01-20 11:38:42 ** --- MESSAGE BEGIN ---
+22-01-20 11:38:42 ** To: logisticwebsite21@gmail.com
+22-01-20 11:38:42 ** Subject: Reset Code
+22-01-20 11:38:42 ** 
+22-01-20 11:38:42 ** Your reset code is 658354
+22-01-20 11:38:42 ** --- MESSAGE END ---
+22-01-20 11:38:43 ** Connecting to smtp.gmail.com:587
+22-01-20 11:38:43 ** Connected.
+22-01-20 11:38:44 << 220 smtp.gmail.com ESMTP qe14sm7492788pjb.12 - gsmtp<EOL>
+22-01-20 11:38:44 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-20 11:38:45 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-20 11:38:45 ** Authenticating as logisticwebsite21@gmail.com
+22-01-20 11:38:45 >> STARTTLS<EOL>
+22-01-20 11:38:45 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-20 11:38:45 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-20 11:38:45 << 250-smtp.gmail.com at your service, [103.30.227.227]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-20 11:38:45 >> AUTH LOGIN<EOL>
+22-01-20 11:38:46 << 334 VXNlcm5hbWU6<EOL>
+22-01-20 11:38:46 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-20 11:38:46 << 334 UGFzc3dvcmQ6<EOL>
+22-01-20 11:38:46 >> MTliY2EwMTc=<EOL>
+22-01-20 11:38:46 << 235 2.7.0 Accepted<EOL>
+22-01-20 11:38:46 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-20 11:38:47 << 250 2.1.0 OK qe14sm7492788pjb.12 - gsmtp<EOL>
+22-01-20 11:38:47 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-20 11:38:47 << 250 2.1.5 OK qe14sm7492788pjb.12 - gsmtp<EOL>
+22-01-20 11:38:47 >> DATA<EOL>
+22-01-20 11:38:47 << 354  Go ahead qe14sm7492788pjb.12 - gsmtp<EOL>
+22-01-20 11:38:47 >> Date: Thu, 20 Jan 2022 11:38:47 +0530<EOL>
+22-01-20 11:38:47 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-20 11:38:47 >> Subject: Reset Code<EOL>
+22-01-20 11:38:47 >> <EOL>
+22-01-20 11:38:47 >> Your reset code is 658354<EOL>
+22-01-20 11:38:47 >> .<EOL>
+22-01-20 11:38:48 << 250 2.0.0 OK  1642658928 qe14sm7492788pjb.12 - gsmtp<EOL>
+22-01-20 11:38:48 >> QUIT<EOL>
+22-01-20 11:38:48 << 221 2.0.0 closing connection qe14sm7492788pjb.12 - gsmtp<EOL>
+22-01-20 11:38:48 ** Disconnecting from smtp.gmail.com:587
+22-01-20 11:38:48 ** Disconnected.
+22-01-20 11:38:48 ** Disconnected.
+22-01-23 15:33:45 ** --- MESSAGE BEGIN ---
+22-01-23 15:33:45 ** To: logisticwebsite21@gmail.com
+22-01-23 15:33:45 ** Subject: Reset Code
+22-01-23 15:33:45 ** 
+22-01-23 15:33:45 ** Your reset code is 744500
+22-01-23 15:33:45 ** --- MESSAGE END ---
+22-01-23 15:33:46 ** Connecting to smtp.gmail.com:587
+22-01-23 15:33:46 ** Connected.
+22-01-23 15:33:48 << 220 smtp.gmail.com ESMTP ha21sm9209977pjb.48 - gsmtp<EOL>
+22-01-23 15:33:48 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:33:48 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:33:48 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 15:33:48 >> STARTTLS<EOL>
+22-01-23 15:33:49 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 15:33:49 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:33:49 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:33:49 >> AUTH LOGIN<EOL>
+22-01-23 15:33:49 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 15:33:49 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 15:33:50 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 15:33:50 >> MTliY2EwMTc=<EOL>
+22-01-23 15:33:50 << 235 2.7.0 Accepted<EOL>
+22-01-23 15:33:50 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:33:50 << 250 2.1.0 OK ha21sm9209977pjb.48 - gsmtp<EOL>
+22-01-23 15:33:50 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:33:51 << 250 2.1.5 OK ha21sm9209977pjb.48 - gsmtp<EOL>
+22-01-23 15:33:51 >> DATA<EOL>
+22-01-23 15:33:51 << 354  Go ahead ha21sm9209977pjb.48 - gsmtp<EOL>
+22-01-23 15:33:51 >> Date: Sun, 23 Jan 2022 15:33:51 +0530<EOL>
+22-01-23 15:33:51 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 15:33:51 >> Subject: Reset Code<EOL>
+22-01-23 15:33:51 >> <EOL>
+22-01-23 15:33:51 >> Your reset code is 744500<EOL>
+22-01-23 15:33:51 >> .<EOL>
+22-01-23 15:33:52 << 250 2.0.0 OK  1642932232 ha21sm9209977pjb.48 - gsmtp<EOL>
+22-01-23 15:33:52 >> QUIT<EOL>
+22-01-23 15:33:52 << 221 2.0.0 closing connection ha21sm9209977pjb.48 - gsmtp<EOL>
+22-01-23 15:33:52 ** Disconnected.
+22-01-23 15:33:52 ** Disconnected.
+22-01-23 15:33:52 ** Disconnected.
+22-01-23 15:34:18 ** --- MESSAGE BEGIN ---
+22-01-23 15:34:18 ** To: logisticwebsite21@gmail.com
+22-01-23 15:34:18 ** Subject: Reset Code
+22-01-23 15:34:18 ** 
+22-01-23 15:34:18 ** Your reset code is 102177
+22-01-23 15:34:18 ** --- MESSAGE END ---
+22-01-23 15:34:19 ** Connecting to smtp.gmail.com:587
+22-01-23 15:34:19 ** Connected.
+22-01-23 15:34:21 << 220 smtp.gmail.com ESMTP h6sm1629942pfk.110 - gsmtp<EOL>
+22-01-23 15:34:21 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:34:21 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:34:21 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 15:34:21 >> STARTTLS<EOL>
+22-01-23 15:34:21 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 15:34:21 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:34:21 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:34:21 >> AUTH LOGIN<EOL>
+22-01-23 15:34:22 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 15:34:22 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 15:34:22 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 15:34:22 >> MTliY2EwMTc=<EOL>
+22-01-23 15:34:22 << 235 2.7.0 Accepted<EOL>
+22-01-23 15:34:22 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:34:22 << 250 2.1.0 OK h6sm1629942pfk.110 - gsmtp<EOL>
+22-01-23 15:34:22 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:34:23 << 250 2.1.5 OK h6sm1629942pfk.110 - gsmtp<EOL>
+22-01-23 15:34:23 >> DATA<EOL>
+22-01-23 15:34:23 << 354  Go ahead h6sm1629942pfk.110 - gsmtp<EOL>
+22-01-23 15:34:23 >> Date: Sun, 23 Jan 2022 15:34:23 +0530<EOL>
+22-01-23 15:34:23 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 15:34:23 >> Subject: Reset Code<EOL>
+22-01-23 15:34:23 >> <EOL>
+22-01-23 15:34:23 >> Your reset code is 102177<EOL>
+22-01-23 15:34:23 >> .<EOL>
+22-01-23 15:34:24 << 250 2.0.0 OK  1642932264 h6sm1629942pfk.110 - gsmtp<EOL>
+22-01-23 15:34:24 >> QUIT<EOL>
+22-01-23 15:34:24 << 221 2.0.0 closing connection h6sm1629942pfk.110 - gsmtp<EOL>
+22-01-23 15:34:24 ** Disconnecting from smtp.gmail.com:587
+22-01-23 15:34:24 ** Disconnected.
+22-01-23 15:34:24 ** Disconnected.
+22-01-23 15:36:27 ** --- MESSAGE BEGIN ---
+22-01-23 15:36:27 ** To: logisticwebsite21@gmail.com
+22-01-23 15:36:27 ** Subject: Reset Code
+22-01-23 15:36:27 ** 
+22-01-23 15:36:27 ** Your reset code is 922403
+22-01-23 15:36:27 ** --- MESSAGE END ---
+22-01-23 15:36:28 ** Connecting to smtp.gmail.com:587
+22-01-23 15:36:28 ** Connected.
+22-01-23 15:36:30 << 220 smtp.gmail.com ESMTP f8sm12952953pfe.67 - gsmtp<EOL>
+22-01-23 15:36:30 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:36:30 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:36:30 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 15:36:30 >> STARTTLS<EOL>
+22-01-23 15:36:30 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 15:36:30 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:36:31 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:36:31 >> AUTH LOGIN<EOL>
+22-01-23 15:36:31 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 15:36:31 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 15:36:31 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 15:36:31 >> MTliY2EwMTc=<EOL>
+22-01-23 15:36:32 << 235 2.7.0 Accepted<EOL>
+22-01-23 15:36:32 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:36:32 << 250 2.1.0 OK f8sm12952953pfe.67 - gsmtp<EOL>
+22-01-23 15:36:32 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:36:32 << 250 2.1.5 OK f8sm12952953pfe.67 - gsmtp<EOL>
+22-01-23 15:36:32 >> DATA<EOL>
+22-01-23 15:36:32 << 354  Go ahead f8sm12952953pfe.67 - gsmtp<EOL>
+22-01-23 15:36:32 >> Date: Sun, 23 Jan 2022 15:36:32 +0530<EOL>
+22-01-23 15:36:32 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 15:36:32 >> Subject: Reset Code<EOL>
+22-01-23 15:36:32 >> <EOL>
+22-01-23 15:36:32 >> Your reset code is 922403<EOL>
+22-01-23 15:36:32 >> .<EOL>
+22-01-23 15:36:33 << 250 2.0.0 OK  1642932393 f8sm12952953pfe.67 - gsmtp<EOL>
+22-01-23 15:36:33 >> QUIT<EOL>
+22-01-23 15:36:33 << 221 2.0.0 closing connection f8sm12952953pfe.67 - gsmtp<EOL>
+22-01-23 15:36:33 ** Disconnecting from smtp.gmail.com:587
+22-01-23 15:36:33 ** Disconnected.
+22-01-23 15:36:33 ** Disconnected.
+22-01-23 15:38:06 ** --- MESSAGE BEGIN ---
+22-01-23 15:38:06 ** To: logisticwebsite21@gmail.com
+22-01-23 15:38:06 ** Subject: Reset Code
+22-01-23 15:38:06 ** 
+22-01-23 15:38:06 ** Your reset code is 893222
+22-01-23 15:38:06 ** --- MESSAGE END ---
+22-01-23 15:38:07 ** Connecting to smtp.gmail.com:587
+22-01-23 15:38:07 ** Connected.
+22-01-23 15:38:08 << 220 smtp.gmail.com ESMTP h14sm13441247pfh.95 - gsmtp<EOL>
+22-01-23 15:38:08 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:38:09 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:38:09 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 15:38:09 >> STARTTLS<EOL>
+22-01-23 15:38:09 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 15:38:09 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:38:09 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:38:09 >> AUTH LOGIN<EOL>
+22-01-23 15:38:10 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 15:38:10 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 15:38:10 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 15:38:10 >> MTliY2EwMTc=<EOL>
+22-01-23 15:38:10 << 235 2.7.0 Accepted<EOL>
+22-01-23 15:38:10 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:38:10 << 250 2.1.0 OK h14sm13441247pfh.95 - gsmtp<EOL>
+22-01-23 15:38:10 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:38:11 << 250 2.1.5 OK h14sm13441247pfh.95 - gsmtp<EOL>
+22-01-23 15:38:11 >> DATA<EOL>
+22-01-23 15:38:11 << 354  Go ahead h14sm13441247pfh.95 - gsmtp<EOL>
+22-01-23 15:38:11 >> Date: Sun, 23 Jan 2022 15:38:11 +0530<EOL>
+22-01-23 15:38:11 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 15:38:11 >> Subject: Reset Code<EOL>
+22-01-23 15:38:11 >> <EOL>
+22-01-23 15:38:11 >> Your reset code is 893222<EOL>
+22-01-23 15:38:11 >> .<EOL>
+22-01-23 15:38:12 << 250 2.0.0 OK  1642932492 h14sm13441247pfh.95 - gsmtp<EOL>
+22-01-23 15:38:12 >> QUIT<EOL>
+22-01-23 15:38:12 << 221 2.0.0 closing connection h14sm13441247pfh.95 - gsmtp<EOL>
+22-01-23 15:38:12 ** Disconnecting from smtp.gmail.com:587
+22-01-23 15:38:12 ** Disconnected.
+22-01-23 15:38:12 ** Disconnected.
+22-01-23 15:58:37 ** --- MESSAGE BEGIN ---
+22-01-23 15:58:37 ** To: logisticwebsite21@gmail.com
+22-01-23 15:58:37 ** Subject: Reset Code
+22-01-23 15:58:37 ** 
+22-01-23 15:58:37 ** Your reset code is 277114
+22-01-23 15:58:37 ** --- MESSAGE END ---
+22-01-23 15:58:38 ** Connecting to smtp.gmail.com:587
+22-01-23 15:58:39 ** Connected.
+22-01-23 15:58:40 << 220 smtp.gmail.com ESMTP d1sm12285470pfu.206 - gsmtp<EOL>
+22-01-23 15:58:40 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:58:40 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:58:40 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 15:58:40 >> STARTTLS<EOL>
+22-01-23 15:58:41 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 15:58:41 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 15:58:41 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 15:58:41 >> AUTH LOGIN<EOL>
+22-01-23 15:58:41 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 15:58:41 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 15:58:41 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 15:58:41 >> MTliY2EwMTc=<EOL>
+22-01-23 15:58:42 << 235 2.7.0 Accepted<EOL>
+22-01-23 15:58:42 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:58:42 << 250 2.1.0 OK d1sm12285470pfu.206 - gsmtp<EOL>
+22-01-23 15:58:42 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 15:58:42 << 250 2.1.5 OK d1sm12285470pfu.206 - gsmtp<EOL>
+22-01-23 15:58:42 >> DATA<EOL>
+22-01-23 15:58:43 << 354  Go ahead d1sm12285470pfu.206 - gsmtp<EOL>
+22-01-23 15:58:43 >> Date: Sun, 23 Jan 2022 15:58:43 +0530<EOL>
+22-01-23 15:58:43 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 15:58:43 >> Subject: Reset Code<EOL>
+22-01-23 15:58:43 >> <EOL>
+22-01-23 15:58:43 >> Your reset code is 277114<EOL>
+22-01-23 15:58:43 >> .<EOL>
+22-01-23 15:58:43 << 250 2.0.0 OK  1642933724 d1sm12285470pfu.206 - gsmtp<EOL>
+22-01-23 15:58:43 >> QUIT<EOL>
+22-01-23 15:58:43 << 221 2.0.0 closing connection d1sm12285470pfu.206 - gsmtp<EOL>
+22-01-23 15:58:43 ** Disconnecting from smtp.gmail.com:587
+22-01-23 15:58:43 ** Disconnected.
+22-01-23 15:58:43 ** Disconnected.
+22-01-23 16:51:07 ** --- MESSAGE BEGIN ---
+22-01-23 16:51:07 ** To: logisticwebsite21@gmail.com
+22-01-23 16:51:07 ** Subject: Reset Code
+22-01-23 16:51:07 ** 
+22-01-23 16:51:07 ** Your reset code is 331338
+22-01-23 16:51:07 ** --- MESSAGE END ---
+22-01-23 16:51:08 ** Connecting to smtp.gmail.com:587
+22-01-23 16:51:08 ** Disconnected.
+22-01-23 16:51:08 ** Disconnected.
+22-01-23 16:51:08 ** Disconnected.
+22-01-23 16:51:08 ** Socket Error # 11001<EOL>Host not found.
+22-01-23 16:51:09 ** --- MESSAGE BEGIN ---
+22-01-23 16:51:09 ** To: logisticwebsite21@gmail.com
+22-01-23 16:51:09 ** Subject: Reset Code
+22-01-23 16:51:09 ** 
+22-01-23 16:51:09 ** Your reset code is 319790
+22-01-23 16:51:09 ** --- MESSAGE END ---
+22-01-23 16:51:10 ** Connecting to smtp.gmail.com:587
+22-01-23 16:51:10 ** Disconnected.
+22-01-23 16:51:10 ** Disconnected.
+22-01-23 16:51:10 ** Disconnected.
+22-01-23 16:51:10 ** Socket Error # 11001<EOL>Host not found.
+22-01-23 16:51:41 ** --- MESSAGE BEGIN ---
+22-01-23 16:51:41 ** To: logisticwebsite21@gmail.com
+22-01-23 16:51:41 ** Subject: Reset Code
+22-01-23 16:51:41 ** 
+22-01-23 16:51:41 ** Your reset code is 841356
+22-01-23 16:51:41 ** --- MESSAGE END ---
+22-01-23 16:51:42 ** Connecting to smtp.gmail.com:587
+22-01-23 16:51:42 ** Disconnected.
+22-01-23 16:51:42 ** Disconnected.
+22-01-23 16:51:42 ** Disconnected.
+22-01-23 16:51:42 ** Socket Error # 11001<EOL>Host not found.
+22-01-23 16:53:23 ** --- MESSAGE BEGIN ---
+22-01-23 16:53:23 ** To: logisticwebsite21@gmail.com
+22-01-23 16:53:23 ** Subject: Reset Code
+22-01-23 16:53:23 ** 
+22-01-23 16:53:23 ** Your reset code is 497478
+22-01-23 16:53:23 ** --- MESSAGE END ---
+22-01-23 16:53:24 ** Connecting to smtp.gmail.com:587
+22-01-23 16:53:24 ** Connected.
+22-01-23 16:53:26 << 220 smtp.gmail.com ESMTP v17sm12895996pfu.220 - gsmtp<EOL>
+22-01-23 16:53:26 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 16:53:26 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 16:53:26 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 16:53:26 >> STARTTLS<EOL>
+22-01-23 16:53:26 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 16:53:27 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 16:53:27 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 16:53:27 >> AUTH LOGIN<EOL>
+22-01-23 16:53:27 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 16:53:27 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 16:53:28 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 16:53:28 >> MTliY2EwMTc=<EOL>
+22-01-23 16:53:28 << 235 2.7.0 Accepted<EOL>
+22-01-23 16:53:28 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 16:53:28 << 250 2.1.0 OK v17sm12895996pfu.220 - gsmtp<EOL>
+22-01-23 16:53:28 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 16:53:28 << 250 2.1.5 OK v17sm12895996pfu.220 - gsmtp<EOL>
+22-01-23 16:53:28 >> DATA<EOL>
+22-01-23 16:53:29 << 354  Go ahead v17sm12895996pfu.220 - gsmtp<EOL>
+22-01-23 16:53:29 >> Date: Sun, 23 Jan 2022 16:53:29 +0530<EOL>
+22-01-23 16:53:29 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 16:53:29 >> Subject: Reset Code<EOL>
+22-01-23 16:53:29 >> <EOL>
+22-01-23 16:53:29 >> Your reset code is 497478<EOL>
+22-01-23 16:53:29 >> .<EOL>
+22-01-23 16:53:30 << 250 2.0.0 OK  1642937010 v17sm12895996pfu.220 - gsmtp<EOL>
+22-01-23 16:53:30 >> QUIT<EOL>
+22-01-23 16:53:30 << 221 2.0.0 closing connection v17sm12895996pfu.220 - gsmtp<EOL>
+22-01-23 16:53:30 ** Disconnected.
+22-01-23 16:53:30 ** Disconnected.
+22-01-23 16:53:30 ** Disconnected.
+22-01-23 17:36:56 ** --- MESSAGE BEGIN ---
+22-01-23 17:36:56 ** To: logisticwebsite21@gmail.com
+22-01-23 17:36:56 ** Subject: Reset Code
+22-01-23 17:36:56 ** 
+22-01-23 17:36:56 ** Your reset code is 928680
+22-01-23 17:36:56 ** --- MESSAGE END ---
+22-01-23 17:36:57 ** Connecting to smtp.gmail.com:587
+22-01-23 17:36:58 ** Connected.
+22-01-23 17:36:59 << 220 smtp.gmail.com ESMTP q21sm13195723pfj.94 - gsmtp<EOL>
+22-01-23 17:36:59 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:37:00 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:37:00 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 17:37:00 >> STARTTLS<EOL>
+22-01-23 17:37:00 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 17:37:00 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:37:00 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:37:00 >> AUTH LOGIN<EOL>
+22-01-23 17:37:01 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 17:37:01 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 17:37:01 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 17:37:01 >> MTliY2EwMTc=<EOL>
+22-01-23 17:37:01 << 235 2.7.0 Accepted<EOL>
+22-01-23 17:37:01 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:37:01 << 250 2.1.0 OK q21sm13195723pfj.94 - gsmtp<EOL>
+22-01-23 17:37:01 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:37:02 << 250 2.1.5 OK q21sm13195723pfj.94 - gsmtp<EOL>
+22-01-23 17:37:02 >> DATA<EOL>
+22-01-23 17:37:02 << 354  Go ahead q21sm13195723pfj.94 - gsmtp<EOL>
+22-01-23 17:37:02 >> Date: Sun, 23 Jan 2022 17:37:02 +0530<EOL>
+22-01-23 17:37:02 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 17:37:02 >> Subject: Reset Code<EOL>
+22-01-23 17:37:02 >> <EOL>
+22-01-23 17:37:02 >> Your reset code is 928680<EOL>
+22-01-23 17:37:02 >> .<EOL>
+22-01-23 17:37:03 << 250 2.0.0 OK  1642939623 q21sm13195723pfj.94 - gsmtp<EOL>
+22-01-23 17:37:03 >> QUIT<EOL>
+22-01-23 17:37:03 << 221 2.0.0 closing connection q21sm13195723pfj.94 - gsmtp<EOL>
+22-01-23 17:37:03 ** Disconnecting from smtp.gmail.com:587
+22-01-23 17:37:03 ** Disconnected.
+22-01-23 17:37:03 ** Disconnected.
+22-01-23 17:37:11 ** --- MESSAGE BEGIN ---
+22-01-23 17:37:11 ** To: logisticwebsite21@gmail.com
+22-01-23 17:37:11 ** Subject: Reset Code
+22-01-23 17:37:11 ** 
+22-01-23 17:37:11 ** Your reset code is 285171
+22-01-23 17:37:11 ** --- MESSAGE END ---
+22-01-23 17:37:12 ** Connecting to smtp.gmail.com:587
+22-01-23 17:37:12 ** Connected.
+22-01-23 17:37:14 << 220 smtp.gmail.com ESMTP k11sm13706413pfu.180 - gsmtp<EOL>
+22-01-23 17:37:14 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:37:14 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:37:14 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 17:37:14 >> STARTTLS<EOL>
+22-01-23 17:37:15 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 17:37:15 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:37:15 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:37:15 >> AUTH LOGIN<EOL>
+22-01-23 17:37:15 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 17:37:15 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 17:37:15 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 17:37:15 >> MTliY2EwMTc=<EOL>
+22-01-23 17:37:16 << 235 2.7.0 Accepted<EOL>
+22-01-23 17:37:16 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:37:16 << 250 2.1.0 OK k11sm13706413pfu.180 - gsmtp<EOL>
+22-01-23 17:37:16 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:37:16 << 250 2.1.5 OK k11sm13706413pfu.180 - gsmtp<EOL>
+22-01-23 17:37:16 >> DATA<EOL>
+22-01-23 17:37:17 << 354  Go ahead k11sm13706413pfu.180 - gsmtp<EOL>
+22-01-23 17:37:17 >> Date: Sun, 23 Jan 2022 17:37:17 +0530<EOL>
+22-01-23 17:37:17 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 17:37:17 >> Subject: Reset Code<EOL>
+22-01-23 17:37:17 >> <EOL>
+22-01-23 17:37:17 >> Your reset code is 285171<EOL>
+22-01-23 17:37:17 >> .<EOL>
+22-01-23 17:37:17 << 250 2.0.0 OK  1642939638 k11sm13706413pfu.180 - gsmtp<EOL>
+22-01-23 17:37:17 >> QUIT<EOL>
+22-01-23 17:37:17 << 221 2.0.0 closing connection k11sm13706413pfu.180 - gsmtp<EOL>
+22-01-23 17:37:17 ** Disconnecting from smtp.gmail.com:587
+22-01-23 17:37:17 ** Disconnected.
+22-01-23 17:37:17 ** Disconnected.
+22-01-23 17:37:29 ** --- MESSAGE BEGIN ---
+22-01-23 17:37:29 ** To: logisticwebsite21@gmail.com
+22-01-23 17:37:29 ** Subject: Reset Code
+22-01-23 17:37:29 ** 
+22-01-23 17:37:29 ** Your reset code is 912450
+22-01-23 17:37:29 ** --- MESSAGE END ---
+22-01-23 17:37:30 ** Connecting to smtp.gmail.com:587
+22-01-23 17:37:30 ** Connected.
+22-01-23 17:37:32 << 220 smtp.gmail.com ESMTP j11sm13336841pfc.188 - gsmtp<EOL>
+22-01-23 17:37:32 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:37:32 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:37:32 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 17:37:32 >> STARTTLS<EOL>
+22-01-23 17:37:32 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 17:37:32 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:37:33 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:37:33 >> AUTH LOGIN<EOL>
+22-01-23 17:37:33 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 17:37:33 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 17:37:33 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 17:37:33 >> MTliY2EwMTc=<EOL>
+22-01-23 17:37:33 << 235 2.7.0 Accepted<EOL>
+22-01-23 17:37:33 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:37:34 << 250 2.1.0 OK j11sm13336841pfc.188 - gsmtp<EOL>
+22-01-23 17:37:34 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:37:34 << 250 2.1.5 OK j11sm13336841pfc.188 - gsmtp<EOL>
+22-01-23 17:37:34 >> DATA<EOL>
+22-01-23 17:37:34 << 354  Go ahead j11sm13336841pfc.188 - gsmtp<EOL>
+22-01-23 17:37:34 >> Date: Sun, 23 Jan 2022 17:37:34 +0530<EOL>
+22-01-23 17:37:34 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 17:37:34 >> Subject: Reset Code<EOL>
+22-01-23 17:37:34 >> <EOL>
+22-01-23 17:37:34 >> Your reset code is 912450<EOL>
+22-01-23 17:37:34 >> .<EOL>
+22-01-23 17:37:35 << 250 2.0.0 OK  1642939655 j11sm13336841pfc.188 - gsmtp<EOL>
+22-01-23 17:37:35 >> QUIT<EOL>
+22-01-23 17:37:35 << 221 2.0.0 closing connection j11sm13336841pfc.188 - gsmtp<EOL>
+22-01-23 17:37:35 ** Disconnecting from smtp.gmail.com:587
+22-01-23 17:37:35 ** Disconnected.
+22-01-23 17:37:35 ** Disconnected.
+22-01-23 17:38:30 ** --- MESSAGE BEGIN ---
+22-01-23 17:38:30 ** To: logisticwebsite21@gmail.com
+22-01-23 17:38:30 ** Subject: Reset Code
+22-01-23 17:38:30 ** 
+22-01-23 17:38:30 ** Your reset code is 816911
+22-01-23 17:38:30 ** --- MESSAGE END ---
+22-01-23 17:38:31 ** Connecting to smtp.gmail.com:587
+22-01-23 17:38:31 ** Connected.
+22-01-23 17:38:32 << 220 smtp.gmail.com ESMTP cq14sm10279507pjb.33 - gsmtp<EOL>
+22-01-23 17:38:32 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:38:33 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:38:33 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 17:38:33 >> STARTTLS<EOL>
+22-01-23 17:38:33 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 17:38:33 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:38:33 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:38:33 >> AUTH LOGIN<EOL>
+22-01-23 17:38:34 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 17:38:34 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 17:38:34 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 17:38:34 >> MTliY2EwMTc=<EOL>
+22-01-23 17:38:34 << 235 2.7.0 Accepted<EOL>
+22-01-23 17:38:34 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:38:34 << 250 2.1.0 OK cq14sm10279507pjb.33 - gsmtp<EOL>
+22-01-23 17:38:34 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:38:35 << 250 2.1.5 OK cq14sm10279507pjb.33 - gsmtp<EOL>
+22-01-23 17:38:35 >> DATA<EOL>
+22-01-23 17:38:35 << 354  Go ahead cq14sm10279507pjb.33 - gsmtp<EOL>
+22-01-23 17:38:35 >> Date: Sun, 23 Jan 2022 17:38:35 +0530<EOL>
+22-01-23 17:38:35 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 17:38:35 >> Subject: Reset Code<EOL>
+22-01-23 17:38:35 >> <EOL>
+22-01-23 17:38:35 >> Your reset code is 816911<EOL>
+22-01-23 17:38:35 >> .<EOL>
+22-01-23 17:38:36 << 250 2.0.0 OK  1642939716 cq14sm10279507pjb.33 - gsmtp<EOL>
+22-01-23 17:38:36 >> QUIT<EOL>
+22-01-23 17:38:36 << 221 2.0.0 closing connection cq14sm10279507pjb.33 - gsmtp<EOL>
+22-01-23 17:38:36 ** Disconnecting from smtp.gmail.com:587
+22-01-23 17:38:36 ** Disconnected.
+22-01-23 17:38:36 ** Disconnected.
+22-01-23 17:48:28 ** --- MESSAGE BEGIN ---
+22-01-23 17:48:28 ** To: logisticwebsite21@gmail.com
+22-01-23 17:48:28 ** Subject: Reset Code
+22-01-23 17:48:28 ** 
+22-01-23 17:48:28 ** Your reset code is 186746
+22-01-23 17:48:28 ** --- MESSAGE END ---
+22-01-23 17:48:28 ** Connecting to smtp.gmail.com:587
+22-01-23 17:48:29 ** Connected.
+22-01-23 17:48:30 << 220 smtp.gmail.com ESMTP j8sm13433727pfc.127 - gsmtp<EOL>
+22-01-23 17:48:30 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:48:30 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:48:30 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 17:48:30 >> STARTTLS<EOL>
+22-01-23 17:48:31 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 17:48:31 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:48:31 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:48:31 >> AUTH LOGIN<EOL>
+22-01-23 17:48:31 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 17:48:31 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 17:48:32 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 17:48:32 >> MTliY2EwMTc=<EOL>
+22-01-23 17:48:32 << 235 2.7.0 Accepted<EOL>
+22-01-23 17:48:32 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:48:32 << 250 2.1.0 OK j8sm13433727pfc.127 - gsmtp<EOL>
+22-01-23 17:48:32 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:48:32 << 250 2.1.5 OK j8sm13433727pfc.127 - gsmtp<EOL>
+22-01-23 17:48:32 >> DATA<EOL>
+22-01-23 17:48:33 << 354  Go ahead j8sm13433727pfc.127 - gsmtp<EOL>
+22-01-23 17:48:33 >> Date: Sun, 23 Jan 2022 17:48:33 +0530<EOL>
+22-01-23 17:48:33 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 17:48:33 >> Subject: Reset Code<EOL>
+22-01-23 17:48:33 >> <EOL>
+22-01-23 17:48:33 >> Your reset code is 186746<EOL>
+22-01-23 17:48:33 >> .<EOL>
+22-01-23 17:48:33 << 250 2.0.0 OK  1642940314 j8sm13433727pfc.127 - gsmtp<EOL>
+22-01-23 17:48:33 >> QUIT<EOL>
+22-01-23 17:48:34 << 221 2.0.0 closing connection j8sm13433727pfc.127 - gsmtp<EOL>
+22-01-23 17:48:34 ** Disconnecting from smtp.gmail.com:587
+22-01-23 17:48:34 ** Disconnected.
+22-01-23 17:48:34 ** Disconnected.
+22-01-23 17:48:34 ** --- MESSAGE BEGIN ---
+22-01-23 17:48:34 ** To: logisticwebsite21@gmail.com
+22-01-23 17:48:34 ** Subject: Reset Code
+22-01-23 17:48:34 ** 
+22-01-23 17:48:34 ** Your reset code is 236098
+22-01-23 17:48:34 ** --- MESSAGE END ---
+22-01-23 17:48:35 ** Connecting to smtp.gmail.com:587
+22-01-23 17:48:35 ** Connected.
+22-01-23 17:48:36 << 220 smtp.gmail.com ESMTP g20sm7458855pfc.194 - gsmtp<EOL>
+22-01-23 17:48:36 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:48:37 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:48:37 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 17:48:37 >> STARTTLS<EOL>
+22-01-23 17:48:37 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 17:48:37 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 17:48:37 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 17:48:37 >> AUTH LOGIN<EOL>
+22-01-23 17:48:37 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 17:48:37 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 17:48:38 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 17:48:38 >> MTliY2EwMTc=<EOL>
+22-01-23 17:48:38 << 235 2.7.0 Accepted<EOL>
+22-01-23 17:48:38 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:48:38 << 250 2.1.0 OK g20sm7458855pfc.194 - gsmtp<EOL>
+22-01-23 17:48:38 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 17:48:39 << 250 2.1.5 OK g20sm7458855pfc.194 - gsmtp<EOL>
+22-01-23 17:48:39 >> DATA<EOL>
+22-01-23 17:48:39 << 354  Go ahead g20sm7458855pfc.194 - gsmtp<EOL>
+22-01-23 17:48:39 >> Date: Sun, 23 Jan 2022 17:48:39 +0530<EOL>
+22-01-23 17:48:39 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 17:48:39 >> Subject: Reset Code<EOL>
+22-01-23 17:48:39 >> <EOL>
+22-01-23 17:48:39 >> Your reset code is 236098<EOL>
+22-01-23 17:48:39 >> .<EOL>
+22-01-23 17:48:39 << 250 2.0.0 OK  1642940320 g20sm7458855pfc.194 - gsmtp<EOL>
+22-01-23 17:48:39 >> QUIT<EOL>
+22-01-23 17:48:40 << 221 2.0.0 closing connection g20sm7458855pfc.194 - gsmtp<EOL>
+22-01-23 17:48:40 ** Disconnected.
+22-01-23 17:48:40 ** Disconnected.
+22-01-23 17:48:40 ** Disconnected.
+22-01-23 18:11:04 ** --- MESSAGE BEGIN ---
+22-01-23 18:11:04 ** To: logisticwebsite21@gmail.com
+22-01-23 18:11:04 ** Subject: Reset Code
+22-01-23 18:11:04 ** 
+22-01-23 18:11:04 ** Your reset code is 69935
+22-01-23 18:11:04 ** --- MESSAGE END ---
+22-01-23 18:11:05 ** Connecting to smtp.gmail.com:587
+22-01-23 18:11:06 ** Connected.
+22-01-23 18:11:07 << 220 smtp.gmail.com ESMTP l14sm10568159pgn.50 - gsmtp<EOL>
+22-01-23 18:11:07 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 18:11:07 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 18:11:07 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 18:11:07 >> STARTTLS<EOL>
+22-01-23 18:11:08 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 18:11:08 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 18:11:08 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 18:11:08 >> AUTH LOGIN<EOL>
+22-01-23 18:11:08 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 18:11:08 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 18:11:09 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 18:11:09 >> MTliY2EwMTc=<EOL>
+22-01-23 18:11:09 << 235 2.7.0 Accepted<EOL>
+22-01-23 18:11:09 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 18:11:09 << 250 2.1.0 OK l14sm10568159pgn.50 - gsmtp<EOL>
+22-01-23 18:11:09 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 18:11:09 << 250 2.1.5 OK l14sm10568159pgn.50 - gsmtp<EOL>
+22-01-23 18:11:09 >> DATA<EOL>
+22-01-23 18:11:10 << 354  Go ahead l14sm10568159pgn.50 - gsmtp<EOL>
+22-01-23 18:11:10 >> Date: Sun, 23 Jan 2022 18:11:10 +0530<EOL>
+22-01-23 18:11:10 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 18:11:10 >> Subject: Reset Code<EOL>
+22-01-23 18:11:10 >> <EOL>
+22-01-23 18:11:10 >> Your reset code is 69935<EOL>
+22-01-23 18:11:10 >> .<EOL>
+22-01-23 18:11:11 << 250 2.0.0 OK  1642941671 l14sm10568159pgn.50 - gsmtp<EOL>
+22-01-23 18:11:11 >> QUIT<EOL>
+22-01-23 18:11:11 << 221 2.0.0 closing connection l14sm10568159pgn.50 - gsmtp<EOL>
+22-01-23 18:11:11 ** Disconnecting from smtp.gmail.com:587
+22-01-23 18:11:11 ** Disconnected.
+22-01-23 18:11:11 ** Disconnected.
+22-01-23 18:22:13 ** --- MESSAGE BEGIN ---
+22-01-23 18:22:13 ** To: logisticwebsite21@gmail.com
+22-01-23 18:22:13 ** Subject: Reset Code
+22-01-23 18:22:13 ** 
+22-01-23 18:22:13 ** Your reset code is 125992
+22-01-23 18:22:13 ** --- MESSAGE END ---
+22-01-23 18:22:14 ** Connecting to smtp.gmail.com:587
+22-01-23 18:22:14 ** Connected.
+22-01-23 18:22:15 << 220 smtp.gmail.com ESMTP l191sm7631802pga.65 - gsmtp<EOL>
+22-01-23 18:22:15 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 18:22:16 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 18:22:16 ** Authenticating as logisticwebsite21@gmail.com
+22-01-23 18:22:16 >> STARTTLS<EOL>
+22-01-23 18:22:16 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-23 18:22:16 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-23 18:22:16 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-23 18:22:16 >> AUTH LOGIN<EOL>
+22-01-23 18:22:17 << 334 VXNlcm5hbWU6<EOL>
+22-01-23 18:22:17 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-23 18:22:17 << 334 UGFzc3dvcmQ6<EOL>
+22-01-23 18:22:17 >> MTliY2EwMTc=<EOL>
+22-01-23 18:22:17 << 235 2.7.0 Accepted<EOL>
+22-01-23 18:22:17 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-23 18:22:17 << 250 2.1.0 OK l191sm7631802pga.65 - gsmtp<EOL>
+22-01-23 18:22:17 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-23 18:22:18 << 250 2.1.5 OK l191sm7631802pga.65 - gsmtp<EOL>
+22-01-23 18:22:18 >> DATA<EOL>
+22-01-23 18:22:18 << 354  Go ahead l191sm7631802pga.65 - gsmtp<EOL>
+22-01-23 18:22:18 >> Date: Sun, 23 Jan 2022 18:22:18 +0530<EOL>
+22-01-23 18:22:18 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-23 18:22:18 >> Subject: Reset Code<EOL>
+22-01-23 18:22:18 >> <EOL>
+22-01-23 18:22:18 >> Your reset code is 125992<EOL>
+22-01-23 18:22:18 >> .<EOL>
+22-01-23 18:22:19 << 250 2.0.0 OK  1642942339 l191sm7631802pga.65 - gsmtp<EOL>
+22-01-23 18:22:19 >> QUIT<EOL>
+22-01-23 18:22:19 << 221 2.0.0 closing connection l191sm7631802pga.65 - gsmtp<EOL>
+22-01-23 18:22:19 ** Disconnecting from smtp.gmail.com:587
+22-01-23 18:22:19 ** Disconnected.
+22-01-23 18:22:19 ** Disconnected.
+22-01-25 23:05:36 ** --- MESSAGE BEGIN ---
+22-01-25 23:05:36 ** To: logisticwebsite21@gmail.com
+22-01-25 23:05:36 ** Subject: Reset Code
+22-01-25 23:05:36 ** 
+22-01-25 23:05:36 ** Your reset code is 230397
+22-01-25 23:05:36 ** --- MESSAGE END ---
+22-01-25 23:05:37 ** Connecting to smtp.gmail.com:587
+22-01-25 23:05:37 ** Connected.
+22-01-25 23:05:39 << 220 smtp.gmail.com ESMTP z14sm11538668pfq.3 - gsmtp<EOL>
+22-01-25 23:05:39 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-25 23:05:40 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-25 23:05:40 ** Authenticating as logisticwebsite21@gmail.com
+22-01-25 23:05:40 >> STARTTLS<EOL>
+22-01-25 23:05:40 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-25 23:05:40 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-25 23:05:40 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-25 23:05:40 >> AUTH LOGIN<EOL>
+22-01-25 23:05:41 << 334 VXNlcm5hbWU6<EOL>
+22-01-25 23:05:41 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-25 23:05:41 << 334 UGFzc3dvcmQ6<EOL>
+22-01-25 23:05:41 >> MTliY2EwMTc=<EOL>
+22-01-25 23:05:41 << 235 2.7.0 Accepted<EOL>
+22-01-25 23:05:41 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-25 23:05:42 << 250 2.1.0 OK z14sm11538668pfq.3 - gsmtp<EOL>
+22-01-25 23:05:42 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-25 23:05:42 << 250 2.1.5 OK z14sm11538668pfq.3 - gsmtp<EOL>
+22-01-25 23:05:42 >> DATA<EOL>
+22-01-25 23:05:42 << 354  Go ahead z14sm11538668pfq.3 - gsmtp<EOL>
+22-01-25 23:05:42 >> Date: Tue, 25 Jan 2022 23:05:42 +0530<EOL>
+22-01-25 23:05:42 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-25 23:05:42 >> Subject: Reset Code<EOL>
+22-01-25 23:05:42 >> <EOL>
+22-01-25 23:05:42 >> Your reset code is 230397<EOL>
+22-01-25 23:05:42 >> .<EOL>
+22-01-25 23:05:43 << 250 2.0.0 OK  1643132143 z14sm11538668pfq.3 - gsmtp<EOL>
+22-01-25 23:05:43 >> QUIT<EOL>
+22-01-25 23:05:44 << 221 2.0.0 closing connection z14sm11538668pfq.3 - gsmtp<EOL>
+22-01-25 23:05:44 ** Disconnecting from smtp.gmail.com:587
+22-01-25 23:05:44 ** Disconnected.
+22-01-25 23:05:44 ** Disconnected.
+22-01-27 18:25:43 ** --- MESSAGE BEGIN ---
+22-01-27 18:25:43 ** To: logisticwebsite21@gmail.com
+22-01-27 18:25:43 ** Subject: Reset Code
+22-01-27 18:25:43 ** 
+22-01-27 18:25:43 ** Your reset code is 61242
+22-01-27 18:25:43 ** --- MESSAGE END ---
+22-01-27 18:25:44 ** Connecting to smtp.gmail.com:587
+22-01-27 18:25:44 ** Connected.
+22-01-27 18:25:46 << 220 smtp.gmail.com ESMTP w4sm19207882pgs.28 - gsmtp<EOL>
+22-01-27 18:25:46 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-27 18:25:46 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-27 18:25:46 ** Authenticating as logisticwebsite21@gmail.com
+22-01-27 18:25:46 >> STARTTLS<EOL>
+22-01-27 18:25:46 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-27 18:25:46 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-27 18:25:47 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-27 18:25:47 >> AUTH LOGIN<EOL>
+22-01-27 18:25:47 << 334 VXNlcm5hbWU6<EOL>
+22-01-27 18:25:47 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-27 18:25:47 << 334 UGFzc3dvcmQ6<EOL>
+22-01-27 18:25:47 >> MTliY2EwMTc=<EOL>
+22-01-27 18:25:48 << 235 2.7.0 Accepted<EOL>
+22-01-27 18:25:48 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-27 18:25:48 << 250 2.1.0 OK w4sm19207882pgs.28 - gsmtp<EOL>
+22-01-27 18:25:48 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-27 18:25:48 << 250 2.1.5 OK w4sm19207882pgs.28 - gsmtp<EOL>
+22-01-27 18:25:48 >> DATA<EOL>
+22-01-27 18:25:49 << 354  Go ahead w4sm19207882pgs.28 - gsmtp<EOL>
+22-01-27 18:25:49 >> Date: Thu, 27 Jan 2022 18:25:49 +0530<EOL>
+22-01-27 18:25:49 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-27 18:25:49 >> Subject: Reset Code<EOL>
+22-01-27 18:25:49 >> <EOL>
+22-01-27 18:25:49 >> Your reset code is 61242<EOL>
+22-01-27 18:25:49 >> .<EOL>
+22-01-27 18:25:50 << 250 2.0.0 OK  1643288151 w4sm19207882pgs.28 - gsmtp<EOL>
+22-01-27 18:25:50 >> QUIT<EOL>
+22-01-27 18:25:50 << 221 2.0.0 closing connection w4sm19207882pgs.28 - gsmtp<EOL>
+22-01-27 18:25:50 ** Disconnecting from smtp.gmail.com:587
+22-01-27 18:25:50 ** Disconnected.
+22-01-27 18:25:50 ** Disconnected.
+22-01-27 18:28:54 ** --- MESSAGE BEGIN ---
+22-01-27 18:28:54 ** To: logisticwebsite21@gmail.com
+22-01-27 18:28:54 ** Subject: Reset Code
+22-01-27 18:28:54 ** 
+22-01-27 18:28:54 ** Your reset code is 507667
+22-01-27 18:28:54 ** --- MESSAGE END ---
+22-01-27 18:28:55 ** Connecting to smtp.gmail.com:587
+22-01-27 18:28:55 ** Connected.
+22-01-27 18:28:57 << 220 smtp.gmail.com ESMTP g8sm5810314pfc.193 - gsmtp<EOL>
+22-01-27 18:28:57 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-27 18:28:57 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-27 18:28:57 ** Authenticating as logisticwebsite21@gmail.com
+22-01-27 18:28:57 >> STARTTLS<EOL>
+22-01-27 18:28:57 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-27 18:28:57 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-27 18:28:57 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-27 18:28:57 >> AUTH LOGIN<EOL>
+22-01-27 18:28:58 << 334 VXNlcm5hbWU6<EOL>
+22-01-27 18:28:58 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-27 18:28:58 << 334 UGFzc3dvcmQ6<EOL>
+22-01-27 18:28:58 >> MTliY2EwMTc=<EOL>
+22-01-27 18:28:59 << 235 2.7.0 Accepted<EOL>
+22-01-27 18:28:59 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-27 18:28:59 << 250 2.1.0 OK g8sm5810314pfc.193 - gsmtp<EOL>
+22-01-27 18:28:59 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-27 18:28:59 << 250 2.1.5 OK g8sm5810314pfc.193 - gsmtp<EOL>
+22-01-27 18:28:59 >> DATA<EOL>
+22-01-27 18:28:59 << 354  Go ahead g8sm5810314pfc.193 - gsmtp<EOL>
+22-01-27 18:28:59 >> Date: Thu, 27 Jan 2022 18:28:59 +0530<EOL>
+22-01-27 18:28:59 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-27 18:28:59 >> Subject: Reset Code<EOL>
+22-01-27 18:28:59 >> <EOL>
+22-01-27 18:28:59 >> Your reset code is 507667<EOL>
+22-01-27 18:28:59 >> .<EOL>
+22-01-27 18:29:00 << 250 2.0.0 OK  1643288341 g8sm5810314pfc.193 - gsmtp<EOL>
+22-01-27 18:29:00 >> QUIT<EOL>
+22-01-27 18:29:00 << 221 2.0.0 closing connection g8sm5810314pfc.193 - gsmtp<EOL>
+22-01-27 18:29:00 ** Disconnecting from smtp.gmail.com:587
+22-01-27 18:29:00 ** Disconnected.
+22-01-27 18:29:00 ** Disconnected.
+22-01-27 18:47:04 ** --- MESSAGE BEGIN ---
+22-01-27 18:47:04 ** To: logisticwebsite21@gmail.com
+22-01-27 18:47:04 ** Subject: Reset Code
+22-01-27 18:47:04 ** 
+22-01-27 18:47:04 ** Your reset code is 509283
+22-01-27 18:47:04 ** --- MESSAGE END ---
+22-01-27 18:47:04 ** Connecting to smtp.gmail.com:587
+22-01-27 18:47:05 ** Connected.
+22-01-27 18:47:06 << 220 smtp.gmail.com ESMTP z1sm2330410pfh.137 - gsmtp<EOL>
+22-01-27 18:47:06 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-27 18:47:06 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-27 18:47:06 ** Authenticating as logisticwebsite21@gmail.com
+22-01-27 18:47:06 >> STARTTLS<EOL>
+22-01-27 18:47:07 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-27 18:47:07 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-27 18:47:07 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-27 18:47:07 >> AUTH LOGIN<EOL>
+22-01-27 18:47:07 << 334 VXNlcm5hbWU6<EOL>
+22-01-27 18:47:07 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-27 18:47:07 << 334 UGFzc3dvcmQ6<EOL>
+22-01-27 18:47:07 >> MTliY2EwMTc=<EOL>
+22-01-27 18:47:08 << 235 2.7.0 Accepted<EOL>
+22-01-27 18:47:08 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-27 18:47:08 << 250 2.1.0 OK z1sm2330410pfh.137 - gsmtp<EOL>
+22-01-27 18:47:08 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-27 18:47:08 << 250 2.1.5 OK z1sm2330410pfh.137 - gsmtp<EOL>
+22-01-27 18:47:08 >> DATA<EOL>
+22-01-27 18:47:09 << 354  Go ahead z1sm2330410pfh.137 - gsmtp<EOL>
+22-01-27 18:47:09 >> Date: Thu, 27 Jan 2022 18:47:09 +0530<EOL>
+22-01-27 18:47:09 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-27 18:47:09 >> Subject: Reset Code<EOL>
+22-01-27 18:47:09 >> <EOL>
+22-01-27 18:47:09 >> Your reset code is 509283<EOL>
+22-01-27 18:47:09 >> .<EOL>
+22-01-27 18:47:09 << 250 2.0.0 OK  1643289430 z1sm2330410pfh.137 - gsmtp<EOL>
+22-01-27 18:47:09 >> QUIT<EOL>
+22-01-27 18:47:10 << 221 2.0.0 closing connection z1sm2330410pfh.137 - gsmtp<EOL>
+22-01-27 18:47:10 ** Disconnected.
+22-01-27 18:47:10 ** Disconnected.
+22-01-27 18:47:10 ** Disconnected.
+22-01-27 18:49:14 ** --- MESSAGE BEGIN ---
+22-01-27 18:49:14 ** To: logisticwebsite21@gmail.com
+22-01-27 18:49:14 ** Subject: Reset Code
+22-01-27 18:49:14 ** 
+22-01-27 18:49:14 ** Your reset code is 874935
+22-01-27 18:49:14 ** --- MESSAGE END ---
+22-01-27 18:49:15 ** Connecting to smtp.gmail.com:587
+22-01-27 18:49:16 ** Connected.
+22-01-27 18:49:17 << 220 smtp.gmail.com ESMTP d2sm6646658pju.2 - gsmtp<EOL>
+22-01-27 18:49:17 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-27 18:49:17 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-27 18:49:17 ** Authenticating as logisticwebsite21@gmail.com
+22-01-27 18:49:17 >> STARTTLS<EOL>
+22-01-27 18:49:17 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-27 18:49:18 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-27 18:49:18 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-27 18:49:18 >> AUTH LOGIN<EOL>
+22-01-27 18:49:18 << 334 VXNlcm5hbWU6<EOL>
+22-01-27 18:49:18 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-27 18:49:18 << 334 UGFzc3dvcmQ6<EOL>
+22-01-27 18:49:18 >> MTliY2EwMTc=<EOL>
+22-01-27 18:49:19 << 235 2.7.0 Accepted<EOL>
+22-01-27 18:49:19 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-27 18:49:19 << 250 2.1.0 OK d2sm6646658pju.2 - gsmtp<EOL>
+22-01-27 18:49:19 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-27 18:49:19 << 250 2.1.5 OK d2sm6646658pju.2 - gsmtp<EOL>
+22-01-27 18:49:19 >> DATA<EOL>
+22-01-27 18:49:20 << 354  Go ahead d2sm6646658pju.2 - gsmtp<EOL>
+22-01-27 18:49:20 >> Date: Thu, 27 Jan 2022 18:49:20 +0530<EOL>
+22-01-27 18:49:20 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-27 18:49:20 >> Subject: Reset Code<EOL>
+22-01-27 18:49:20 >> <EOL>
+22-01-27 18:49:20 >> Your reset code is 874935<EOL>
+22-01-27 18:49:20 >> .<EOL>
+22-01-27 18:49:20 << 250 2.0.0 OK  1643289561 d2sm6646658pju.2 - gsmtp<EOL>
+22-01-27 18:49:20 >> QUIT<EOL>
+22-01-27 18:49:20 << 221 2.0.0 closing connection d2sm6646658pju.2 - gsmtp<EOL>
+22-01-27 18:49:20 ** Disconnecting from smtp.gmail.com:587
+22-01-27 18:49:20 ** Disconnected.
+22-01-27 18:49:20 ** Disconnected.
+22-01-28 10:21:20 ** --- MESSAGE BEGIN ---
+22-01-28 10:21:20 ** To: logisticwebsite21@gmail.com
+22-01-28 10:21:20 ** Subject: Reset Code
+22-01-28 10:21:20 ** 
+22-01-28 10:21:20 ** Your reset code is 787881
+22-01-28 10:21:20 ** --- MESSAGE END ---
+22-01-28 10:21:21 ** Connecting to smtp.gmail.com:587
+22-01-28 10:21:21 ** Connected.
+22-01-28 10:21:23 << 220 smtp.gmail.com ESMTP o1sm7883871pfu.88 - gsmtp<EOL>
+22-01-28 10:21:23 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-28 10:21:23 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-28 10:21:23 ** Authenticating as logisticwebsite21@gmail.com
+22-01-28 10:21:23 >> STARTTLS<EOL>
+22-01-28 10:21:23 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-28 10:21:23 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-28 10:21:24 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-28 10:21:24 >> AUTH LOGIN<EOL>
+22-01-28 10:21:24 << 334 VXNlcm5hbWU6<EOL>
+22-01-28 10:21:24 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-28 10:21:24 << 334 UGFzc3dvcmQ6<EOL>
+22-01-28 10:21:24 >> MTliY2EwMTc=<EOL>
+22-01-28 10:21:24 << 235 2.7.0 Accepted<EOL>
+22-01-28 10:21:24 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-28 10:21:25 << 250 2.1.0 OK o1sm7883871pfu.88 - gsmtp<EOL>
+22-01-28 10:21:25 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-28 10:21:25 << 250 2.1.5 OK o1sm7883871pfu.88 - gsmtp<EOL>
+22-01-28 10:21:25 >> DATA<EOL>
+22-01-28 10:21:25 << 354  Go ahead o1sm7883871pfu.88 - gsmtp<EOL>
+22-01-28 10:21:25 >> Date: Fri, 28 Jan 2022 10:21:25 +0530<EOL>
+22-01-28 10:21:25 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-28 10:21:25 >> Subject: Reset Code<EOL>
+22-01-28 10:21:25 >> <EOL>
+22-01-28 10:21:25 >> Your reset code is 787881<EOL>
+22-01-28 10:21:25 >> .<EOL>
+22-01-28 10:21:26 << 250 2.0.0 OK  1643345487 o1sm7883871pfu.88 - gsmtp<EOL>
+22-01-28 10:21:26 >> QUIT<EOL>
+22-01-28 10:21:26 << 221 2.0.0 closing connection o1sm7883871pfu.88 - gsmtp<EOL>
+22-01-28 10:21:26 ** Disconnecting from smtp.gmail.com:587
+22-01-28 10:21:26 ** Disconnected.
+22-01-28 10:21:26 ** Disconnected.
+22-01-28 10:27:32 ** --- MESSAGE BEGIN ---
+22-01-28 10:27:32 ** To: logisticwebsite21@gmail.com
+22-01-28 10:27:32 ** Subject: Reset Code
+22-01-28 10:27:32 ** 
+22-01-28 10:27:32 ** Your reset code is 262192
+22-01-28 10:27:32 ** --- MESSAGE END ---
+22-01-28 10:27:33 ** Connecting to smtp.gmail.com:587
+22-01-28 10:27:33 ** Connected.
+22-01-28 10:27:35 << 220 smtp.gmail.com ESMTP f12sm9479926pgg.35 - gsmtp<EOL>
+22-01-28 10:27:35 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-28 10:27:35 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-28 10:27:35 ** Authenticating as logisticwebsite21@gmail.com
+22-01-28 10:27:35 >> STARTTLS<EOL>
+22-01-28 10:27:35 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-28 10:27:36 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-28 10:27:36 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-28 10:27:36 >> AUTH LOGIN<EOL>
+22-01-28 10:27:36 << 334 VXNlcm5hbWU6<EOL>
+22-01-28 10:27:36 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-28 10:27:36 << 334 UGFzc3dvcmQ6<EOL>
+22-01-28 10:27:36 >> MTliY2EwMTc=<EOL>
+22-01-28 10:27:37 << 235 2.7.0 Accepted<EOL>
+22-01-28 10:27:37 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-28 10:27:37 << 250 2.1.0 OK f12sm9479926pgg.35 - gsmtp<EOL>
+22-01-28 10:27:37 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-28 10:27:37 << 250 2.1.5 OK f12sm9479926pgg.35 - gsmtp<EOL>
+22-01-28 10:27:37 >> DATA<EOL>
+22-01-28 10:27:37 << 354  Go ahead f12sm9479926pgg.35 - gsmtp<EOL>
+22-01-28 10:27:37 >> Date: Fri, 28 Jan 2022 10:27:37 +0530<EOL>
+22-01-28 10:27:37 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-28 10:27:37 >> Subject: Reset Code<EOL>
+22-01-28 10:27:37 >> <EOL>
+22-01-28 10:27:37 >> Your reset code is 262192<EOL>
+22-01-28 10:27:37 >> .<EOL>
+22-01-28 10:27:38 << 250 2.0.0 OK  1643345859 f12sm9479926pgg.35 - gsmtp<EOL>
+22-01-28 10:27:38 >> QUIT<EOL>
+22-01-28 10:27:38 << 221 2.0.0 closing connection f12sm9479926pgg.35 - gsmtp<EOL>
+22-01-28 10:27:38 ** Disconnected.
+22-01-28 10:27:38 ** Disconnected.
+22-01-28 10:27:38 ** Disconnected.
+22-01-28 10:37:50 ** --- MESSAGE BEGIN ---
+22-01-28 10:37:50 ** To: logisticwebsite21@gmail.com
+22-01-28 10:37:50 ** Subject: Reset Code
+22-01-28 10:37:50 ** 
+22-01-28 10:37:50 ** Your reset code is 427743
+22-01-28 10:37:50 ** --- MESSAGE END ---
+22-01-28 10:37:51 ** Connecting to smtp.gmail.com:587
+22-01-28 10:37:52 ** Connected.
+22-01-28 10:37:53 << 220 smtp.gmail.com ESMTP x33sm8218627pfh.178 - gsmtp<EOL>
+22-01-28 10:37:53 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-28 10:37:53 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-28 10:37:53 ** Authenticating as logisticwebsite21@gmail.com
+22-01-28 10:37:53 >> STARTTLS<EOL>
+22-01-28 10:37:54 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-28 10:37:54 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-28 10:37:54 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-28 10:37:54 >> AUTH LOGIN<EOL>
+22-01-28 10:37:54 << 334 VXNlcm5hbWU6<EOL>
+22-01-28 10:37:54 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-28 10:37:55 << 334 UGFzc3dvcmQ6<EOL>
+22-01-28 10:37:55 >> MTliY2EwMTc=<EOL>
+22-01-28 10:37:55 << 235 2.7.0 Accepted<EOL>
+22-01-28 10:37:55 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-28 10:37:55 << 250 2.1.0 OK x33sm8218627pfh.178 - gsmtp<EOL>
+22-01-28 10:37:55 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-28 10:37:56 << 250 2.1.5 OK x33sm8218627pfh.178 - gsmtp<EOL>
+22-01-28 10:37:56 >> DATA<EOL>
+22-01-28 10:37:56 << 354  Go ahead x33sm8218627pfh.178 - gsmtp<EOL>
+22-01-28 10:37:56 >> Date: Fri, 28 Jan 2022 10:37:56 +0530<EOL>
+22-01-28 10:37:56 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-28 10:37:56 >> Subject: Reset Code<EOL>
+22-01-28 10:37:56 >> <EOL>
+22-01-28 10:37:56 >> Your reset code is 427743<EOL>
+22-01-28 10:37:56 >> .<EOL>
+22-01-28 10:37:57 << 250 2.0.0 OK  1643346477 x33sm8218627pfh.178 - gsmtp<EOL>
+22-01-28 10:37:57 >> QUIT<EOL>
+22-01-28 10:37:57 << 221 2.0.0 closing connection x33sm8218627pfh.178 - gsmtp<EOL>
+22-01-28 10:37:57 ** Disconnecting from smtp.gmail.com:587
+22-01-28 10:37:57 ** Disconnected.
+22-01-28 10:37:57 ** Disconnected.
+22-01-29 14:47:38 ** --- MESSAGE BEGIN ---
+22-01-29 14:47:38 ** To: logisticwebsite21@gmail.com
+22-01-29 14:47:38 ** Subject: Reset Code
+22-01-29 14:47:38 ** 
+22-01-29 14:47:38 ** Your reset code is 1392
+22-01-29 14:47:38 ** --- MESSAGE END ---
+22-01-29 14:47:39 ** Connecting to smtp.gmail.com:587
+22-01-29 14:47:39 ** Connected.
+22-01-29 14:47:40 << 220 smtp.gmail.com ESMTP r4sm4721449pjj.56 - gsmtp<EOL>
+22-01-29 14:47:40 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-29 14:47:41 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-29 14:47:41 ** Authenticating as logisticwebsite21@gmail.com
+22-01-29 14:47:41 >> STARTTLS<EOL>
+22-01-29 14:47:41 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-29 14:47:41 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-29 14:47:41 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-29 14:47:41 >> AUTH LOGIN<EOL>
+22-01-29 14:47:42 << 334 VXNlcm5hbWU6<EOL>
+22-01-29 14:47:42 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-29 14:47:42 << 334 UGFzc3dvcmQ6<EOL>
+22-01-29 14:47:42 >> MTliY2EwMTc=<EOL>
+22-01-29 14:47:42 << 235 2.7.0 Accepted<EOL>
+22-01-29 14:47:42 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-29 14:47:43 << 250 2.1.0 OK r4sm4721449pjj.56 - gsmtp<EOL>
+22-01-29 14:47:43 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-29 14:47:43 << 250 2.1.5 OK r4sm4721449pjj.56 - gsmtp<EOL>
+22-01-29 14:47:43 >> DATA<EOL>
+22-01-29 14:47:44 << 354  Go ahead r4sm4721449pjj.56 - gsmtp<EOL>
+22-01-29 14:47:44 >> Date: Sat, 29 Jan 2022 14:47:44 +0530<EOL>
+22-01-29 14:47:44 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-29 14:47:44 >> Subject: Reset Code<EOL>
+22-01-29 14:47:44 >> <EOL>
+22-01-29 14:47:44 >> Your reset code is 1392<EOL>
+22-01-29 14:47:44 >> .<EOL>
+22-01-29 14:47:45 << 250 2.0.0 OK  1643447865 r4sm4721449pjj.56 - gsmtp<EOL>
+22-01-29 14:47:45 >> QUIT<EOL>
+22-01-29 14:47:45 << 221 2.0.0 closing connection r4sm4721449pjj.56 - gsmtp<EOL>
+22-01-29 14:47:45 ** Disconnected.
+22-01-29 14:47:45 ** Disconnected.
+22-01-29 14:47:45 ** Disconnected.
+22-01-29 14:52:58 ** --- MESSAGE BEGIN ---
+22-01-29 14:52:58 ** To: logisticwebsite21@gmail.com
+22-01-29 14:52:58 ** Subject: Reset Code
+22-01-29 14:52:58 ** 
+22-01-29 14:52:58 ** Your reset code is 842683
+22-01-29 14:52:58 ** --- MESSAGE END ---
+22-01-29 14:52:59 ** Connecting to smtp.gmail.com:587
+22-01-29 14:52:59 ** Connected.
+22-01-29 14:53:02 << 220 smtp.gmail.com ESMTP p5sm14399754iof.50 - gsmtp<EOL>
+22-01-29 14:53:02 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-29 14:53:02 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-29 14:53:02 ** Authenticating as logisticwebsite21@gmail.com
+22-01-29 14:53:02 >> STARTTLS<EOL>
+22-01-29 14:53:02 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-29 14:53:03 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-29 14:53:03 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-29 14:53:03 >> AUTH LOGIN<EOL>
+22-01-29 14:53:03 << 334 VXNlcm5hbWU6<EOL>
+22-01-29 14:53:03 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-29 14:53:04 << 334 UGFzc3dvcmQ6<EOL>
+22-01-29 14:53:04 >> MTliY2EwMTc=<EOL>
+22-01-29 14:53:04 << 235 2.7.0 Accepted<EOL>
+22-01-29 14:53:04 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-29 14:53:04 << 250 2.1.0 OK p5sm14399754iof.50 - gsmtp<EOL>
+22-01-29 14:53:04 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-29 14:53:05 << 250 2.1.5 OK p5sm14399754iof.50 - gsmtp<EOL>
+22-01-29 14:53:05 >> DATA<EOL>
+22-01-29 14:53:05 << 354  Go ahead p5sm14399754iof.50 - gsmtp<EOL>
+22-01-29 14:53:05 >> Date: Sat, 29 Jan 2022 14:53:05 +0530<EOL>
+22-01-29 14:53:05 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-29 14:53:05 >> Subject: Reset Code<EOL>
+22-01-29 14:53:05 >> <EOL>
+22-01-29 14:53:05 >> Your reset code is 842683<EOL>
+22-01-29 14:53:05 >> .<EOL>
+22-01-29 14:53:06 << 250 2.0.0 OK  1643448186 p5sm14399754iof.50 - gsmtp<EOL>
+22-01-29 14:53:06 >> QUIT<EOL>
+22-01-29 14:53:07 << 221 2.0.0 closing connection p5sm14399754iof.50 - gsmtp<EOL>
+22-01-29 14:53:07 ** Disconnected.
+22-01-29 14:53:07 ** Disconnected.
+22-01-29 14:53:07 ** Disconnected.
+22-01-29 14:57:29 ** --- MESSAGE BEGIN ---
+22-01-29 14:57:29 ** To: logisticwebsite21@gmail.com
+22-01-29 14:57:29 ** Subject: Reset Code
+22-01-29 14:57:29 ** 
+22-01-29 14:57:29 ** Your reset code is 310377
+22-01-29 14:57:29 ** --- MESSAGE END ---
+22-01-29 14:57:30 ** Connecting to smtp.gmail.com:587
+22-01-29 14:57:31 ** Connected.
+22-01-29 14:57:32 << 220 smtp.gmail.com ESMTP na5sm5387280pjb.23 - gsmtp<EOL>
+22-01-29 14:57:32 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-29 14:57:32 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-29 14:57:32 ** Authenticating as logisticwebsite21@gmail.com
+22-01-29 14:57:32 >> STARTTLS<EOL>
+22-01-29 14:57:32 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-29 14:57:33 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-29 14:57:33 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-29 14:57:33 >> AUTH LOGIN<EOL>
+22-01-29 14:57:33 << 334 VXNlcm5hbWU6<EOL>
+22-01-29 14:57:33 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-29 14:57:34 << 334 UGFzc3dvcmQ6<EOL>
+22-01-29 14:57:34 >> MTliY2EwMTc=<EOL>
+22-01-29 14:57:34 << 235 2.7.0 Accepted<EOL>
+22-01-29 14:57:34 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-29 14:57:34 << 250 2.1.0 OK na5sm5387280pjb.23 - gsmtp<EOL>
+22-01-29 14:57:34 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-29 14:57:34 << 250 2.1.5 OK na5sm5387280pjb.23 - gsmtp<EOL>
+22-01-29 14:57:34 >> DATA<EOL>
+22-01-29 14:57:35 << 354  Go ahead na5sm5387280pjb.23 - gsmtp<EOL>
+22-01-29 14:57:35 >> Date: Sat, 29 Jan 2022 14:57:35 +0530<EOL>
+22-01-29 14:57:35 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-29 14:57:35 >> Subject: Reset Code<EOL>
+22-01-29 14:57:35 >> <EOL>
+22-01-29 14:57:35 >> Your reset code is 310377<EOL>
+22-01-29 14:57:35 >> .<EOL>
+22-01-29 14:57:35 << 250 2.0.0 OK  1643448455 na5sm5387280pjb.23 - gsmtp<EOL>
+22-01-29 14:57:35 >> QUIT<EOL>
+22-01-29 14:57:36 << 221 2.0.0 closing connection na5sm5387280pjb.23 - gsmtp<EOL>
+22-01-29 14:57:36 ** Disconnected.
+22-01-29 14:57:36 ** Disconnected.
+22-01-29 14:57:36 ** Disconnected.
+22-01-29 15:46:41 ** --- MESSAGE BEGIN ---
+22-01-29 15:46:41 ** To: logisticwebsite21@gmail.com
+22-01-29 15:46:41 ** Subject: Reset Code
+22-01-29 15:46:41 ** 
+22-01-29 15:46:41 ** Your reset code is 351915
+22-01-29 15:46:41 ** --- MESSAGE END ---
+22-01-29 15:46:42 ** Connecting to smtp.gmail.com:587
+22-01-29 15:46:42 ** Connected.
+22-01-29 15:46:44 << 220 smtp.gmail.com ESMTP h6sm13043411pfk.110 - gsmtp<EOL>
+22-01-29 15:46:44 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-29 15:46:44 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-29 15:46:44 ** Authenticating as logisticwebsite21@gmail.com
+22-01-29 15:46:44 >> STARTTLS<EOL>
+22-01-29 15:46:45 << 220 2.0.0 Ready to start TLS<EOL>
+22-01-29 15:46:45 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-01-29 15:46:45 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-01-29 15:46:45 >> AUTH LOGIN<EOL>
+22-01-29 15:46:45 << 334 VXNlcm5hbWU6<EOL>
+22-01-29 15:46:45 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-01-29 15:46:46 << 334 UGFzc3dvcmQ6<EOL>
+22-01-29 15:46:46 >> MTliY2EwMTc=<EOL>
+22-01-29 15:46:46 << 235 2.7.0 Accepted<EOL>
+22-01-29 15:46:46 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-01-29 15:46:46 << 250 2.1.0 OK h6sm13043411pfk.110 - gsmtp<EOL>
+22-01-29 15:46:46 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-01-29 15:46:46 << 250 2.1.5 OK h6sm13043411pfk.110 - gsmtp<EOL>
+22-01-29 15:46:46 >> DATA<EOL>
+22-01-29 15:46:47 << 354  Go ahead h6sm13043411pfk.110 - gsmtp<EOL>
+22-01-29 15:46:47 >> Date: Sat, 29 Jan 2022 15:46:47 +0530<EOL>
+22-01-29 15:46:47 >> To: logisticwebsite21@gmail.com<EOL>
+22-01-29 15:46:47 >> Subject: Reset Code<EOL>
+22-01-29 15:46:47 >> <EOL>
+22-01-29 15:46:47 >> Your reset code is 351915<EOL>
+22-01-29 15:46:47 >> .<EOL>
+22-01-29 15:46:48 << 250 2.0.0 OK  1643451408 h6sm13043411pfk.110 - gsmtp<EOL>
+22-01-29 15:46:48 >> QUIT<EOL>
+22-01-29 15:46:48 << 221 2.0.0 closing connection h6sm13043411pfk.110 - gsmtp<EOL>
+22-01-29 15:46:48 ** Disconnecting from smtp.gmail.com:587
+22-01-29 15:46:48 ** Disconnected.
+22-01-29 15:46:48 ** Disconnected.
+22-02-13 14:43:46 ** --- MESSAGE BEGIN ---
+22-02-13 14:43:46 ** To: logisticwebsite21@gmail.com
+22-02-13 14:43:46 ** Subject: Reset Code
+22-02-13 14:43:46 ** 
+22-02-13 14:43:46 ** Your reset code is 370918
+22-02-13 14:43:46 ** --- MESSAGE END ---
+22-02-13 14:43:47 ** Connecting to smtp.gmail.com:587
+22-02-13 14:43:47 ** Connected.
+22-02-13 14:43:49 << 220 smtp.gmail.com ESMTP t11sm25099028pgi.90 - gsmtp<EOL>
+22-02-13 14:43:49 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-13 14:43:49 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-13 14:43:49 ** Authenticating as logisticwebsite21@gmail.com
+22-02-13 14:43:49 >> STARTTLS<EOL>
+22-02-13 14:43:50 << 220 2.0.0 Ready to start TLS<EOL>
+22-02-13 14:43:50 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-13 14:43:50 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-13 14:43:50 >> AUTH LOGIN<EOL>
+22-02-13 14:43:50 << 334 VXNlcm5hbWU6<EOL>
+22-02-13 14:43:50 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-02-13 14:43:50 << 334 UGFzc3dvcmQ6<EOL>
+22-02-13 14:43:50 >> MTliY2EwMTc=<EOL>
+22-02-13 14:43:51 << 235 2.7.0 Accepted<EOL>
+22-02-13 14:43:51 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-02-13 14:43:51 << 250 2.1.0 OK t11sm25099028pgi.90 - gsmtp<EOL>
+22-02-13 14:43:51 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-02-13 14:43:51 << 250 2.1.5 OK t11sm25099028pgi.90 - gsmtp<EOL>
+22-02-13 14:43:51 >> DATA<EOL>
+22-02-13 14:43:52 << 354  Go ahead t11sm25099028pgi.90 - gsmtp<EOL>
+22-02-13 14:43:52 >> Date: Sun, 13 Feb 2022 14:43:52 +0530<EOL>
+22-02-13 14:43:52 >> To: logisticwebsite21@gmail.com<EOL>
+22-02-13 14:43:52 >> Subject: Reset Code<EOL>
+22-02-13 14:43:52 >> <EOL>
+22-02-13 14:43:52 >> Your reset code is 370918<EOL>
+22-02-13 14:43:52 >> .<EOL>
+22-02-13 14:43:53 << 250 2.0.0 OK  1644743634 t11sm25099028pgi.90 - gsmtp<EOL>
+22-02-13 14:43:53 >> QUIT<EOL>
+22-02-13 14:43:53 << 221 2.0.0 closing connection t11sm25099028pgi.90 - gsmtp<EOL>
+22-02-13 14:43:53 ** Disconnecting from smtp.gmail.com:587
+22-02-13 14:43:53 ** Disconnected.
+22-02-13 14:43:53 ** Disconnected.
+22-02-13 14:44:59 ** --- MESSAGE BEGIN ---
+22-02-13 14:44:59 ** To: logisticwebsite21@gmail.com
+22-02-13 14:44:59 ** Subject: Reset Code
+22-02-13 14:44:59 ** 
+22-02-13 14:44:59 ** Your reset code is 724973
+22-02-13 14:44:59 ** --- MESSAGE END ---
+22-02-13 14:45:00 ** Connecting to smtp.gmail.com:587
+22-02-13 14:45:01 ** Connected.
+22-02-13 14:45:02 << 220 smtp.gmail.com ESMTP h18sm32206296pfh.51 - gsmtp<EOL>
+22-02-13 14:45:02 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-13 14:45:03 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-13 14:45:03 ** Authenticating as logisticwebsite21@gmail.com
+22-02-13 14:45:03 >> STARTTLS<EOL>
+22-02-13 14:45:03 << 220 2.0.0 Ready to start TLS<EOL>
+22-02-13 14:45:03 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-13 14:45:04 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-13 14:45:04 >> AUTH LOGIN<EOL>
+22-02-13 14:45:04 << 334 VXNlcm5hbWU6<EOL>
+22-02-13 14:45:04 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-02-13 14:45:04 << 334 UGFzc3dvcmQ6<EOL>
+22-02-13 14:45:04 >> MTliY2EwMTc=<EOL>
+22-02-13 14:45:05 << 235 2.7.0 Accepted<EOL>
+22-02-13 14:45:05 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-02-13 14:45:05 << 250 2.1.0 OK h18sm32206296pfh.51 - gsmtp<EOL>
+22-02-13 14:45:05 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-02-13 14:45:05 << 250 2.1.5 OK h18sm32206296pfh.51 - gsmtp<EOL>
+22-02-13 14:45:05 >> DATA<EOL>
+22-02-13 14:45:06 << 354  Go ahead h18sm32206296pfh.51 - gsmtp<EOL>
+22-02-13 14:45:06 >> Date: Sun, 13 Feb 2022 14:45:06 +0530<EOL>
+22-02-13 14:45:06 >> To: logisticwebsite21@gmail.com<EOL>
+22-02-13 14:45:06 >> Subject: Reset Code<EOL>
+22-02-13 14:45:06 >> <EOL>
+22-02-13 14:45:06 >> Your reset code is 724973<EOL>
+22-02-13 14:45:06 >> .<EOL>
+22-02-13 14:45:06 << 250 2.0.0 OK  1644743708 h18sm32206296pfh.51 - gsmtp<EOL>
+22-02-13 14:45:06 >> QUIT<EOL>
+22-02-13 14:45:07 << 221 2.0.0 closing connection h18sm32206296pfh.51 - gsmtp<EOL>
+22-02-13 14:45:07 ** Disconnecting from smtp.gmail.com:587
+22-02-13 14:45:07 ** Disconnected.
+22-02-13 14:45:07 ** Disconnected.
+22-02-14 19:14:19 ** --- MESSAGE BEGIN ---
+22-02-14 19:14:19 ** To: logisticwebsite21@gmail.com
+22-02-14 19:14:19 ** Subject: Reset Code
+22-02-14 19:14:19 ** 
+22-02-14 19:14:19 ** Your reset code is 891011
+22-02-14 19:14:19 ** --- MESSAGE END ---
+22-02-14 19:14:20 ** Connecting to smtp.gmail.com:587
+22-02-14 19:14:20 ** Connected.
+22-02-14 19:14:22 << 220 smtp.gmail.com ESMTP bg9sm2634849pjb.46 - gsmtp<EOL>
+22-02-14 19:14:22 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-14 19:14:22 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-14 19:14:22 ** Authenticating as logisticwebsite21@gmail.com
+22-02-14 19:14:22 >> STARTTLS<EOL>
+22-02-14 19:14:23 << 220 2.0.0 Ready to start TLS<EOL>
+22-02-14 19:14:23 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-14 19:14:23 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-14 19:14:23 >> AUTH LOGIN<EOL>
+22-02-14 19:14:24 << 334 VXNlcm5hbWU6<EOL>
+22-02-14 19:14:24 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-02-14 19:14:24 << 334 UGFzc3dvcmQ6<EOL>
+22-02-14 19:14:24 >> MTliY2EwMTc=<EOL>
+22-02-14 19:14:24 << 235 2.7.0 Accepted<EOL>
+22-02-14 19:14:24 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-02-14 19:14:25 << 250 2.1.0 OK bg9sm2634849pjb.46 - gsmtp<EOL>
+22-02-14 19:14:25 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-02-14 19:14:25 << 250 2.1.5 OK bg9sm2634849pjb.46 - gsmtp<EOL>
+22-02-14 19:14:25 >> DATA<EOL>
+22-02-14 19:14:25 << 354  Go ahead bg9sm2634849pjb.46 - gsmtp<EOL>
+22-02-14 19:14:25 >> Date: Mon, 14 Feb 2022 19:14:25 +0530<EOL>
+22-02-14 19:14:25 >> To: logisticwebsite21@gmail.com<EOL>
+22-02-14 19:14:25 >> Subject: Reset Code<EOL>
+22-02-14 19:14:25 >> <EOL>
+22-02-14 19:14:25 >> Your reset code is 891011<EOL>
+22-02-14 19:14:25 >> .<EOL>
+22-02-14 19:14:26 << 250 2.0.0 OK  1644846266 bg9sm2634849pjb.46 - gsmtp<EOL>
+22-02-14 19:14:26 >> QUIT<EOL>
+22-02-14 19:14:26 << 221 2.0.0 closing connection bg9sm2634849pjb.46 - gsmtp<EOL>
+22-02-14 19:14:26 ** Disconnecting from smtp.gmail.com:587
+22-02-14 19:14:26 ** Disconnected.
+22-02-14 19:14:26 ** Disconnected.
+22-02-14 19:14:57 ** --- MESSAGE BEGIN ---
+22-02-14 19:14:57 ** To: logisticwebsite21@gmail.com
+22-02-14 19:14:57 ** Subject: Reset Code
+22-02-14 19:14:57 ** 
+22-02-14 19:14:57 ** Your reset code is 320392
+22-02-14 19:14:57 ** --- MESSAGE END ---
+22-02-14 19:14:58 ** Connecting to smtp.gmail.com:587
+22-02-14 19:14:58 ** Connected.
+22-02-14 19:15:00 << 220 smtp.gmail.com ESMTP r12sm26820546pgn.6 - gsmtp<EOL>
+22-02-14 19:15:00 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-14 19:15:00 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-14 19:15:00 ** Authenticating as logisticwebsite21@gmail.com
+22-02-14 19:15:00 >> STARTTLS<EOL>
+22-02-14 19:15:00 << 220 2.0.0 Ready to start TLS<EOL>
+22-02-14 19:15:00 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-14 19:15:00 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-14 19:15:00 >> AUTH LOGIN<EOL>
+22-02-14 19:15:01 << 334 VXNlcm5hbWU6<EOL>
+22-02-14 19:15:01 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-02-14 19:15:01 << 334 UGFzc3dvcmQ6<EOL>
+22-02-14 19:15:01 >> MTliY2EwMTc=<EOL>
+22-02-14 19:15:01 << 235 2.7.0 Accepted<EOL>
+22-02-14 19:15:01 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-02-14 19:15:02 << 250 2.1.0 OK r12sm26820546pgn.6 - gsmtp<EOL>
+22-02-14 19:15:02 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-02-14 19:15:02 << 250 2.1.5 OK r12sm26820546pgn.6 - gsmtp<EOL>
+22-02-14 19:15:02 >> DATA<EOL>
+22-02-14 19:15:02 << 354  Go ahead r12sm26820546pgn.6 - gsmtp<EOL>
+22-02-14 19:15:02 >> Date: Mon, 14 Feb 2022 19:15:02 +0530<EOL>
+22-02-14 19:15:02 >> To: logisticwebsite21@gmail.com<EOL>
+22-02-14 19:15:02 >> Subject: Reset Code<EOL>
+22-02-14 19:15:02 >> <EOL>
+22-02-14 19:15:02 >> Your reset code is 320392<EOL>
+22-02-14 19:15:02 >> .<EOL>
+22-02-14 19:15:03 << 250 2.0.0 OK  1644846303 r12sm26820546pgn.6 - gsmtp<EOL>
+22-02-14 19:15:03 >> QUIT<EOL>
+22-02-14 19:15:03 << 221 2.0.0 closing connection r12sm26820546pgn.6 - gsmtp<EOL>
+22-02-14 19:15:03 ** Disconnected.
+22-02-14 19:15:03 ** Disconnected.
+22-02-14 19:15:03 ** Disconnected.
+22-02-14 19:16:31 ** --- MESSAGE BEGIN ---
+22-02-14 19:16:31 ** To: logisticwebsite21@gmail.com
+22-02-14 19:16:31 ** Subject: Reset Code
+22-02-14 19:16:31 ** 
+22-02-14 19:16:31 ** Your reset code is 535926
+22-02-14 19:16:31 ** --- MESSAGE END ---
+22-02-14 19:16:32 ** Connecting to smtp.gmail.com:587
+22-02-14 19:16:32 ** Connected.
+22-02-14 19:16:34 << 220 smtp.gmail.com ESMTP t1sm37701877pfj.115 - gsmtp<EOL>
+22-02-14 19:16:34 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-14 19:16:34 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-14 19:16:34 ** Authenticating as logisticwebsite21@gmail.com
+22-02-14 19:16:34 >> STARTTLS<EOL>
+22-02-14 19:16:34 << 220 2.0.0 Ready to start TLS<EOL>
+22-02-14 19:16:35 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-02-14 19:16:35 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-02-14 19:16:35 >> AUTH LOGIN<EOL>
+22-02-14 19:16:35 << 334 VXNlcm5hbWU6<EOL>
+22-02-14 19:16:35 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-02-14 19:16:35 << 334 UGFzc3dvcmQ6<EOL>
+22-02-14 19:16:35 >> MTliY2EwMTc=<EOL>
+22-02-14 19:16:36 << 235 2.7.0 Accepted<EOL>
+22-02-14 19:16:36 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-02-14 19:16:36 << 250 2.1.0 OK t1sm37701877pfj.115 - gsmtp<EOL>
+22-02-14 19:16:36 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-02-14 19:16:36 << 250 2.1.5 OK t1sm37701877pfj.115 - gsmtp<EOL>
+22-02-14 19:16:36 >> DATA<EOL>
+22-02-14 19:16:37 << 354  Go ahead t1sm37701877pfj.115 - gsmtp<EOL>
+22-02-14 19:16:37 >> Date: Mon, 14 Feb 2022 19:16:37 +0530<EOL>
+22-02-14 19:16:37 >> To: logisticwebsite21@gmail.com<EOL>
+22-02-14 19:16:37 >> Subject: Reset Code<EOL>
+22-02-14 19:16:37 >> <EOL>
+22-02-14 19:16:37 >> Your reset code is 535926<EOL>
+22-02-14 19:16:37 >> .<EOL>
+22-02-14 19:16:38 << 250 2.0.0 OK  1644846398 t1sm37701877pfj.115 - gsmtp<EOL>
+22-02-14 19:16:38 >> QUIT<EOL>
+22-02-14 19:16:38 << 221 2.0.0 closing connection t1sm37701877pfj.115 - gsmtp<EOL>
+22-02-14 19:16:38 ** Disconnected.
+22-02-14 19:16:38 ** Disconnected.
+22-02-14 19:16:38 ** Disconnected.
+22-03-08 00:23:31 ** --- MESSAGE BEGIN ---
+22-03-08 00:23:31 ** To: logisticwebsite21@gmail.com
+22-03-08 00:23:31 ** Subject: Reset Code
+22-03-08 00:23:31 ** 
+22-03-08 00:23:31 ** Your reset code is 221126
+22-03-08 00:23:31 ** --- MESSAGE END ---
+22-03-08 00:23:32 ** Connecting to smtp.gmail.com:587
+22-03-08 00:23:32 ** Connected.
+22-03-08 00:23:34 << 220 smtp.gmail.com ESMTP g12-20020a056a0023cc00b004f707cc97f9sm4101602pfc.52 - gsmtp<EOL>
+22-03-08 00:23:34 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-08 00:23:35 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-08 00:23:35 ** Authenticating as logisticwebsite21@gmail.com
+22-03-08 00:23:35 >> STARTTLS<EOL>
+22-03-08 00:23:35 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-08 00:23:35 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-08 00:23:35 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-08 00:23:35 >> AUTH LOGIN<EOL>
+22-03-08 00:23:35 << 334 VXNlcm5hbWU6<EOL>
+22-03-08 00:23:35 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-08 00:23:36 << 334 UGFzc3dvcmQ6<EOL>
+22-03-08 00:23:36 >> MTliY2EwMTc=<EOL>
+22-03-08 00:23:36 << 235 2.7.0 Accepted<EOL>
+22-03-08 00:23:36 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-08 00:23:36 << 250 2.1.0 OK g12-20020a056a0023cc00b004f707cc97f9sm4101602pfc.52 - gsmtp<EOL>
+22-03-08 00:23:36 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-08 00:23:36 << 250 2.1.5 OK g12-20020a056a0023cc00b004f707cc97f9sm4101602pfc.52 - gsmtp<EOL>
+22-03-08 00:23:36 >> DATA<EOL>
+22-03-08 00:23:37 << 354  Go ahead g12-20020a056a0023cc00b004f707cc97f9sm4101602pfc.52 - gsmtp<EOL>
+22-03-08 00:23:37 >> Date: Tue, 8 Mar 2022 00:23:37 +0530<EOL>
+22-03-08 00:23:37 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-08 00:23:37 >> Subject: Reset Code<EOL>
+22-03-08 00:23:37 >> <EOL>
+22-03-08 00:23:37 >> Your reset code is 221126<EOL>
+22-03-08 00:23:37 >> .<EOL>
+22-03-08 00:23:38 << 250 2.0.0 OK  1646679218 g12-20020a056a0023cc00b004f707cc97f9sm4101602pfc.52 - gsmtp<EOL>
+22-03-08 00:23:38 >> QUIT<EOL>
+22-03-08 00:23:38 << 221 2.0.0 closing connection g12-20020a056a0023cc00b004f707cc97f9sm4101602pfc.52 - gsmtp<EOL>
+22-03-08 00:23:38 ** Disconnecting from smtp.gmail.com:587
+22-03-08 00:23:38 ** Disconnected.
+22-03-08 00:23:38 ** Disconnected.
+22-03-10 12:41:47 ** --- MESSAGE BEGIN ---
+22-03-10 12:41:47 ** To: logisticwebsite21@gmail.com
+22-03-10 12:41:47 ** Subject: Reset Code
+22-03-10 12:41:47 ** 
+22-03-10 12:41:47 ** Your reset code is 848490
+22-03-10 12:41:47 ** --- MESSAGE END ---
+22-03-10 12:41:48 ** Connecting to smtp.gmail.com:587
+22-03-10 12:41:48 ** Connected.
+22-03-10 12:41:50 << 220 smtp.gmail.com ESMTP i7-20020a17090a65c700b001b936b8abe0sm8551380pjs.7 - gsmtp<EOL>
+22-03-10 12:41:50 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 12:41:50 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 12:41:50 ** Authenticating as logisticwebsite21@gmail.com
+22-03-10 12:41:50 >> STARTTLS<EOL>
+22-03-10 12:41:51 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-10 12:41:51 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 12:41:51 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 12:41:51 >> AUTH LOGIN<EOL>
+22-03-10 12:41:51 << 334 VXNlcm5hbWU6<EOL>
+22-03-10 12:41:51 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-10 12:41:51 << 334 UGFzc3dvcmQ6<EOL>
+22-03-10 12:41:51 >> MTliY2EwMTc=<EOL>
+22-03-10 12:41:52 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials i7-20020a17090a65c700b001b936b8abe0sm8551380pjs.7 - gsmtp<EOL>
+22-03-10 12:41:52 ** Disconnecting from smtp.gmail.com:587
+22-03-10 12:41:52 ** Disconnected.
+22-03-10 12:41:52 ** Disconnected.
+22-03-10 12:41:52 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials i7-20020a17090a65c700b001b936b8abe0sm8551380pjs.7 - gsmtp<EOL>
+22-03-10 12:42:48 ** --- MESSAGE BEGIN ---
+22-03-10 12:42:48 ** To: logisticwebsite21@gmail.com
+22-03-10 12:42:48 ** Subject: Reset Code
+22-03-10 12:42:48 ** 
+22-03-10 12:42:48 ** Your reset code is 634186
+22-03-10 12:42:48 ** --- MESSAGE END ---
+22-03-10 12:42:49 ** Connecting to smtp.gmail.com:587
+22-03-10 12:42:50 ** Connected.
+22-03-10 12:42:51 << 220 smtp.gmail.com ESMTP i11-20020a056a00004b00b004f6907b2cd3sm5587832pfk.122 - gsmtp<EOL>
+22-03-10 12:42:51 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 12:42:52 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 12:42:52 ** Authenticating as logisticwebsite21@gmail.com
+22-03-10 12:42:52 >> STARTTLS<EOL>
+22-03-10 12:42:52 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-10 12:42:52 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 12:42:52 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 12:42:52 >> AUTH LOGIN<EOL>
+22-03-10 12:42:53 << 334 VXNlcm5hbWU6<EOL>
+22-03-10 12:42:53 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-10 12:42:53 << 334 UGFzc3dvcmQ6<EOL>
+22-03-10 12:42:53 >> MTliY2EwMTc=<EOL>
+22-03-10 12:42:53 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials i11-20020a056a00004b00b004f6907b2cd3sm5587832pfk.122 - gsmtp<EOL>
+22-03-10 12:42:53 ** Disconnecting from smtp.gmail.com:587
+22-03-10 12:42:53 ** Disconnected.
+22-03-10 12:42:53 ** Disconnected.
+22-03-10 12:42:53 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials i11-20020a056a00004b00b004f6907b2cd3sm5587832pfk.122 - gsmtp<EOL>
+22-03-10 12:46:08 ** --- MESSAGE BEGIN ---
+22-03-10 12:46:08 ** To: logisticwebsite21@gmail.com
+22-03-10 12:46:08 ** Subject: Reset Code
+22-03-10 12:46:08 ** 
+22-03-10 12:46:08 ** Your reset code is 822064
+22-03-10 12:46:08 ** --- MESSAGE END ---
+22-03-10 12:46:09 ** Connecting to smtp.gmail.com:587
+22-03-10 12:46:10 ** Connected.
+22-03-10 12:46:11 << 220 smtp.gmail.com ESMTP m11-20020a056a00080b00b004f75d5f9b5csm4735620pfk.26 - gsmtp<EOL>
+22-03-10 12:46:11 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 12:46:11 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 12:46:11 ** Authenticating as logisticwebsite21@gmail.com
+22-03-10 12:46:11 >> STARTTLS<EOL>
+22-03-10 12:46:12 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-10 12:46:12 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 12:46:12 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 12:46:12 >> AUTH LOGIN<EOL>
+22-03-10 12:46:12 << 334 VXNlcm5hbWU6<EOL>
+22-03-10 12:46:12 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-10 12:46:13 << 334 UGFzc3dvcmQ6<EOL>
+22-03-10 12:46:13 >> MTliY2EwMTc=<EOL>
+22-03-10 12:46:13 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials m11-20020a056a00080b00b004f75d5f9b5csm4735620pfk.26 - gsmtp<EOL>
+22-03-10 12:46:13 ** Disconnecting from smtp.gmail.com:587
+22-03-10 12:46:13 ** Disconnected.
+22-03-10 12:46:13 ** Disconnected.
+22-03-10 12:46:13 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials m11-20020a056a00080b00b004f75d5f9b5csm4735620pfk.26 - gsmtp<EOL>
+22-03-10 12:46:57 ** --- MESSAGE BEGIN ---
+22-03-10 12:46:57 ** To: logisticwebsite21@gmail.com
+22-03-10 12:46:57 ** Subject: Reset Code
+22-03-10 12:46:57 ** 
+22-03-10 12:46:57 ** Your reset code is 67281
+22-03-10 12:46:57 ** --- MESSAGE END ---
+22-03-10 12:46:58 ** Connecting to smtp.gmail.com:587
+22-03-10 12:46:59 ** Connected.
+22-03-10 12:47:00 << 220 smtp.gmail.com ESMTP y13-20020a056a00180d00b004f733bc57e5sm5593412pfa.192 - gsmtp<EOL>
+22-03-10 12:47:00 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 12:47:00 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 12:47:00 ** Authenticating as logisticwebsite21@gmail.com
+22-03-10 12:47:00 >> STARTTLS<EOL>
+22-03-10 12:47:01 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-10 12:47:01 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 12:47:01 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 12:47:01 >> AUTH LOGIN<EOL>
+22-03-10 12:47:01 << 334 VXNlcm5hbWU6<EOL>
+22-03-10 12:47:01 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-10 12:47:02 << 334 UGFzc3dvcmQ6<EOL>
+22-03-10 12:47:02 >> MTliY2EwMTc=<EOL>
+22-03-10 12:47:02 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials y13-20020a056a00180d00b004f733bc57e5sm5593412pfa.192 - gsmtp<EOL>
+22-03-10 12:47:02 ** Disconnecting from smtp.gmail.com:587
+22-03-10 12:47:02 ** Disconnected.
+22-03-10 12:47:02 ** Disconnected.
+22-03-10 12:47:02 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials y13-20020a056a00180d00b004f733bc57e5sm5593412pfa.192 - gsmtp<EOL>
+22-03-10 13:17:50 ** --- MESSAGE BEGIN ---
+22-03-10 13:17:50 ** To: logisticwebsite21@gmail.com
+22-03-10 13:17:50 ** Subject: Reset Code
+22-03-10 13:17:50 ** 
+22-03-10 13:17:50 ** Your reset code is 391572
+22-03-10 13:17:50 ** --- MESSAGE END ---
+22-03-10 13:17:51 ** Connecting to smtp.gmail.com:587
+22-03-10 13:17:51 ** Connected.
+22-03-10 13:17:51 << 220 smtp.gmail.com ESMTP y2-20020a056a00190200b004f6ef638551sm5811053pfi.98 - gsmtp<EOL>
+22-03-10 13:17:51 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 13:17:52 << 250-smtp.gmail.com at your service, [106.213.217.242]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 13:17:52 ** Authenticating as logisticwebsite21@gmail.com
+22-03-10 13:17:52 >> STARTTLS<EOL>
+22-03-10 13:17:52 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-10 13:17:52 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 13:17:53 << 250-smtp.gmail.com at your service, [106.213.217.242]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 13:17:53 >> AUTH LOGIN<EOL>
+22-03-10 13:17:54 << 334 VXNlcm5hbWU6<EOL>
+22-03-10 13:17:54 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-10 13:17:54 << 334 UGFzc3dvcmQ6<EOL>
+22-03-10 13:17:54 >> MTliY2EwMTc=<EOL>
+22-03-10 13:17:54 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials y2-20020a056a00190200b004f6ef638551sm5811053pfi.98 - gsmtp<EOL>
+22-03-10 13:17:54 ** Disconnecting from smtp.gmail.com:587
+22-03-10 13:17:54 ** Disconnected.
+22-03-10 13:17:54 ** Disconnected.
+22-03-10 13:17:54 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials y2-20020a056a00190200b004f6ef638551sm5811053pfi.98 - gsmtp<EOL>
+22-03-10 13:20:19 ** --- MESSAGE BEGIN ---
+22-03-10 13:20:19 ** To: logisticwebsite21@gmail.com
+22-03-10 13:20:19 ** Subject: Reset Code
+22-03-10 13:20:19 ** 
+22-03-10 13:20:19 ** Your reset code is 722373
+22-03-10 13:20:19 ** --- MESSAGE END ---
+22-03-10 13:20:20 ** Connecting to smtp.gmail.com:587
+22-03-10 13:20:30 ** Connected.
+22-03-10 13:20:30 << 220 smtp.gmail.com ESMTP ng12-20020a17090b1a8c00b001bfc847b555sm1967220pjb.46 - gsmtp<EOL>
+22-03-10 13:20:30 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 13:20:32 << 250-smtp.gmail.com at your service, [106.213.217.242]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 13:20:32 ** Authenticating as logisticwebsite21@gmail.com
+22-03-10 13:20:32 >> STARTTLS<EOL>
+22-03-10 13:20:43 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-10 13:20:44 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-10 13:21:14 << 250-smtp.gmail.com at your service, [106.213.217.242]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-10 13:21:14 >> AUTH LOGIN<EOL>
+22-03-10 13:27:02 ** Socket Error # 10054<EOL>Connection reset by peer.
+22-03-12 18:22:19 ** --- MESSAGE BEGIN ---
+22-03-12 18:22:19 ** To: logisticwebsite21@gmail.com
+22-03-12 18:22:19 ** Subject: Reset Code
+22-03-12 18:22:19 ** 
+22-03-12 18:22:19 ** Your reset code is 955916
+22-03-12 18:22:19 ** --- MESSAGE END ---
+22-03-12 18:22:20 ** Connecting to smtp.gmail.com:587
+22-03-12 18:22:21 ** Connected.
+22-03-12 18:22:21 << 220 smtp.gmail.com ESMTP h17-20020a63df51000000b0036b9776ae5bsm11208014pgj.85 - gsmtp<EOL>
+22-03-12 18:22:21 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-12 18:22:21 << 250-smtp.gmail.com at your service, [117.254.205.217]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-12 18:22:21 ** Authenticating as logisticwebsite21@gmail.com
+22-03-12 18:22:21 >> STARTTLS<EOL>
+22-03-12 18:22:22 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-12 18:22:22 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-12 18:22:23 << 250-smtp.gmail.com at your service, [117.254.205.217]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-12 18:22:23 >> AUTH LOGIN<EOL>
+22-03-12 18:22:23 << 334 VXNlcm5hbWU6<EOL>
+22-03-12 18:22:23 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-12 18:22:23 << 334 UGFzc3dvcmQ6<EOL>
+22-03-12 18:22:23 >> MTliY2FAMDE3<EOL>
+22-03-12 18:22:24 << 235 2.7.0 Accepted<EOL>
+22-03-12 18:22:24 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-12 18:22:24 << 250 2.1.0 OK h17-20020a63df51000000b0036b9776ae5bsm11208014pgj.85 - gsmtp<EOL>
+22-03-12 18:22:24 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-12 18:22:25 << 250 2.1.5 OK h17-20020a63df51000000b0036b9776ae5bsm11208014pgj.85 - gsmtp<EOL>
+22-03-12 18:22:25 >> DATA<EOL>
+22-03-12 18:22:25 << 354  Go ahead h17-20020a63df51000000b0036b9776ae5bsm11208014pgj.85 - gsmtp<EOL>
+22-03-12 18:22:25 >> Date: Sat, 12 Mar 2022 18:22:25 +0530<EOL>
+22-03-12 18:22:25 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-12 18:22:25 >> Subject: Reset Code<EOL>
+22-03-12 18:22:25 >> <EOL>
+22-03-12 18:22:25 >> Your reset code is 955916<EOL>
+22-03-12 18:22:25 >> .<EOL>
+22-03-12 18:22:26 << 250 2.0.0 OK  1647089549 h17-20020a63df51000000b0036b9776ae5bsm11208014pgj.85 - gsmtp<EOL>
+22-03-12 18:22:26 >> QUIT<EOL>
+22-03-12 18:22:26 << 221 2.0.0 closing connection h17-20020a63df51000000b0036b9776ae5bsm11208014pgj.85 - gsmtp<EOL>
+22-03-12 18:22:26 ** Disconnected.
+22-03-12 18:22:26 ** Disconnected.
+22-03-12 18:22:26 ** Disconnected.
+22-03-15 11:58:38 ** --- MESSAGE BEGIN ---
+22-03-15 11:58:38 ** To: logisticwebsite21@gmail.com
+22-03-15 11:58:38 ** Subject: Reset Code
+22-03-15 11:58:38 ** 
+22-03-15 11:58:38 ** Your reset code is 198849
+22-03-15 11:58:38 ** --- MESSAGE END ---
+22-03-15 11:58:39 ** Connecting to smtp.gmail.com:587
+22-03-15 11:58:39 ** Connected.
+22-03-15 11:58:40 << 220 smtp.gmail.com ESMTP 18-20020a17090a001200b001c6320f8581sm1479556pja.31 - gsmtp<EOL>
+22-03-15 11:58:40 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-15 11:58:41 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-15 11:58:41 ** Authenticating as logisticwebsite21@gmail.com
+22-03-15 11:58:41 >> STARTTLS<EOL>
+22-03-15 11:58:41 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-15 11:58:41 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-15 11:58:41 << 250-smtp.gmail.com at your service, [103.30.227.187]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-15 11:58:41 >> AUTH LOGIN<EOL>
+22-03-15 11:58:42 << 334 VXNlcm5hbWU6<EOL>
+22-03-15 11:58:42 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-15 11:58:42 << 334 UGFzc3dvcmQ6<EOL>
+22-03-15 11:58:42 >> MTliY2FAMDE3<EOL>
+22-03-15 11:58:42 << 235 2.7.0 Accepted<EOL>
+22-03-15 11:58:42 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-15 11:58:42 << 250 2.1.0 OK 18-20020a17090a001200b001c6320f8581sm1479556pja.31 - gsmtp<EOL>
+22-03-15 11:58:42 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-15 11:58:43 << 250 2.1.5 OK 18-20020a17090a001200b001c6320f8581sm1479556pja.31 - gsmtp<EOL>
+22-03-15 11:58:43 >> DATA<EOL>
+22-03-15 11:58:43 << 354  Go ahead 18-20020a17090a001200b001c6320f8581sm1479556pja.31 - gsmtp<EOL>
+22-03-15 11:58:43 >> Date: Tue, 15 Mar 2022 11:58:43 +0530<EOL>
+22-03-15 11:58:43 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-15 11:58:43 >> Subject: Reset Code<EOL>
+22-03-15 11:58:43 >> <EOL>
+22-03-15 11:58:43 >> Your reset code is 198849<EOL>
+22-03-15 11:58:43 >> .<EOL>
+22-03-15 11:58:44 << 250 2.0.0 OK  1647325724 18-20020a17090a001200b001c6320f8581sm1479556pja.31 - gsmtp<EOL>
+22-03-15 11:58:44 >> QUIT<EOL>
+22-03-15 11:58:44 << 221 2.0.0 closing connection 18-20020a17090a001200b001c6320f8581sm1479556pja.31 - gsmtp<EOL>
+22-03-15 11:58:44 ** Disconnected.
+22-03-15 11:58:44 ** Disconnected.
+22-03-15 11:58:44 ** Disconnected.
+22-03-20 14:32:26 ** --- MESSAGE BEGIN ---
+22-03-20 14:32:26 ** To: logisticwebsite21@gmail.com
+22-03-20 14:32:26 ** Subject: Reset Code
+22-03-20 14:32:26 ** 
+22-03-20 14:32:26 ** Your reset code is 964186
+22-03-20 14:32:26 ** --- MESSAGE END ---
+22-03-20 14:32:27 ** Connecting to smtp.gmail.com:587
+22-03-20 14:32:27 ** Connected.
+22-03-20 14:32:28 << 220 smtp.gmail.com ESMTP g12-20020a056a0023cc00b004f707cc97f9sm15917447pfc.52 - gsmtp<EOL>
+22-03-20 14:32:28 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-20 14:32:28 << 250-smtp.gmail.com at your service, [114.31.181.114]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-20 14:32:28 ** Authenticating as logisticwebsite21@gmail.com
+22-03-20 14:32:28 >> STARTTLS<EOL>
+22-03-20 14:32:29 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-20 14:32:29 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-20 14:32:29 << 250-smtp.gmail.com at your service, [114.31.181.114]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-20 14:32:29 >> AUTH LOGIN<EOL>
+22-03-20 14:32:30 << 334 VXNlcm5hbWU6<EOL>
+22-03-20 14:32:30 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-20 14:32:30 << 334 UGFzc3dvcmQ6<EOL>
+22-03-20 14:32:30 >> MTliY2FAMDE3<EOL>
+22-03-20 14:32:30 << 235 2.7.0 Accepted<EOL>
+22-03-20 14:32:30 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-20 14:32:31 << 250 2.1.0 OK g12-20020a056a0023cc00b004f707cc97f9sm15917447pfc.52 - gsmtp<EOL>
+22-03-20 14:32:31 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-20 14:32:31 << 250 2.1.5 OK g12-20020a056a0023cc00b004f707cc97f9sm15917447pfc.52 - gsmtp<EOL>
+22-03-20 14:32:31 >> DATA<EOL>
+22-03-20 14:32:31 << 354  Go ahead g12-20020a056a0023cc00b004f707cc97f9sm15917447pfc.52 - gsmtp<EOL>
+22-03-20 14:32:31 >> Date: Sun, 20 Mar 2022 14:32:31 +0530<EOL>
+22-03-20 14:32:31 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-20 14:32:31 >> Subject: Reset Code<EOL>
+22-03-20 14:32:31 >> <EOL>
+22-03-20 14:32:31 >> Your reset code is 964186<EOL>
+22-03-20 14:32:31 >> .<EOL>
+22-03-20 14:32:32 << 250 2.0.0 OK  1647766956 g12-20020a056a0023cc00b004f707cc97f9sm15917447pfc.52 - gsmtp<EOL>
+22-03-20 14:32:32 >> QUIT<EOL>
+22-03-20 14:32:32 << 221 2.0.0 closing connection g12-20020a056a0023cc00b004f707cc97f9sm15917447pfc.52 - gsmtp<EOL>
+22-03-20 14:32:32 ** Disconnecting from smtp.gmail.com:587
+22-03-20 14:32:32 ** Disconnected.
+22-03-20 14:32:32 ** Disconnected.
+22-03-20 14:37:57 ** --- MESSAGE BEGIN ---
+22-03-20 14:37:57 ** To: logisticwebsite21@gmail.com
+22-03-20 14:37:57 ** Subject: Reset Code
+22-03-20 14:37:57 ** 
+22-03-20 14:37:57 ** Your reset code is 739003
+22-03-20 14:37:57 ** --- MESSAGE END ---
+22-03-20 14:37:58 ** Connecting to smtp.gmail.com:587
+22-03-20 14:37:59 ** Connected.
+22-03-20 14:37:59 << 220 smtp.gmail.com ESMTP s25-20020a056a00179900b004f737ce5c1asm14987892pfg.73 - gsmtp<EOL>
+22-03-20 14:37:59 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-20 14:37:59 << 250-smtp.gmail.com at your service, [114.31.181.114]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-20 14:37:59 ** Authenticating as logisticwebsite21@gmail.com
+22-03-20 14:37:59 >> STARTTLS<EOL>
+22-03-20 14:38:00 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-20 14:38:00 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-20 14:38:00 << 250-smtp.gmail.com at your service, [114.31.181.114]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-20 14:38:00 >> AUTH LOGIN<EOL>
+22-03-20 14:38:01 << 334 VXNlcm5hbWU6<EOL>
+22-03-20 14:38:01 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-20 14:38:01 << 334 UGFzc3dvcmQ6<EOL>
+22-03-20 14:38:01 >> MTliY2FAMDE3<EOL>
+22-03-20 14:38:01 << 235 2.7.0 Accepted<EOL>
+22-03-20 14:38:01 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-20 14:38:02 << 250 2.1.0 OK s25-20020a056a00179900b004f737ce5c1asm14987892pfg.73 - gsmtp<EOL>
+22-03-20 14:38:02 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-20 14:38:02 << 250 2.1.5 OK s25-20020a056a00179900b004f737ce5c1asm14987892pfg.73 - gsmtp<EOL>
+22-03-20 14:38:02 >> DATA<EOL>
+22-03-20 14:38:02 << 354  Go ahead s25-20020a056a00179900b004f737ce5c1asm14987892pfg.73 - gsmtp<EOL>
+22-03-20 14:38:02 >> Date: Sun, 20 Mar 2022 14:38:02 +0530<EOL>
+22-03-20 14:38:02 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-20 14:38:02 >> Subject: Reset Code<EOL>
+22-03-20 14:38:02 >> <EOL>
+22-03-20 14:38:02 >> Your reset code is 739003<EOL>
+22-03-20 14:38:02 >> .<EOL>
+22-03-20 14:38:03 << 250 2.0.0 OK  1647767287 s25-20020a056a00179900b004f737ce5c1asm14987892pfg.73 - gsmtp<EOL>
+22-03-20 14:38:03 >> QUIT<EOL>
+22-03-20 14:38:03 << 221 2.0.0 closing connection s25-20020a056a00179900b004f737ce5c1asm14987892pfg.73 - gsmtp<EOL>
+22-03-20 14:38:03 ** Disconnecting from smtp.gmail.com:587
+22-03-20 14:38:03 ** Disconnected.
+22-03-20 14:38:03 ** Disconnected.
+22-03-20 14:38:11 ** --- MESSAGE BEGIN ---
+22-03-20 14:38:11 ** To: logisticwebsite21@gmail.com
+22-03-20 14:38:11 ** Subject: Reset Code
+22-03-20 14:38:11 ** 
+22-03-20 14:38:11 ** Your reset code is 423323
+22-03-20 14:38:11 ** --- MESSAGE END ---
+22-03-20 14:38:12 ** Connecting to smtp.gmail.com:587
+22-03-20 14:38:13 ** Connected.
+22-03-20 14:38:13 << 220 smtp.gmail.com ESMTP s3-20020a056a00194300b004f6da3a1a3bsm15565340pfk.8 - gsmtp<EOL>
+22-03-20 14:38:13 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-20 14:38:13 << 250-smtp.gmail.com at your service, [114.31.181.114]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-20 14:38:13 ** Authenticating as logisticwebsite21@gmail.com
+22-03-20 14:38:13 >> STARTTLS<EOL>
+22-03-20 14:38:13 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-20 14:38:13 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-20 14:38:14 << 250-smtp.gmail.com at your service, [114.31.181.114]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-20 14:38:14 >> AUTH LOGIN<EOL>
+22-03-20 14:38:14 << 334 VXNlcm5hbWU6<EOL>
+22-03-20 14:38:14 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-20 14:38:14 << 334 UGFzc3dvcmQ6<EOL>
+22-03-20 14:38:14 >> MTliY2FAMDE3<EOL>
+22-03-20 14:38:15 << 235 2.7.0 Accepted<EOL>
+22-03-20 14:38:15 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-20 14:38:15 << 250 2.1.0 OK s3-20020a056a00194300b004f6da3a1a3bsm15565340pfk.8 - gsmtp<EOL>
+22-03-20 14:38:15 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-20 14:38:15 << 250 2.1.5 OK s3-20020a056a00194300b004f6da3a1a3bsm15565340pfk.8 - gsmtp<EOL>
+22-03-20 14:38:15 >> DATA<EOL>
+22-03-20 14:38:15 << 354  Go ahead s3-20020a056a00194300b004f6da3a1a3bsm15565340pfk.8 - gsmtp<EOL>
+22-03-20 14:38:15 >> Date: Sun, 20 Mar 2022 14:38:15 +0530<EOL>
+22-03-20 14:38:15 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-20 14:38:15 >> Subject: Reset Code<EOL>
+22-03-20 14:38:15 >> <EOL>
+22-03-20 14:38:15 >> Your reset code is 423323<EOL>
+22-03-20 14:38:15 >> .<EOL>
+22-03-20 14:38:16 << 250 2.0.0 OK  1647767300 s3-20020a056a00194300b004f6da3a1a3bsm15565340pfk.8 - gsmtp<EOL>
+22-03-20 14:38:16 >> QUIT<EOL>
+22-03-20 14:38:16 << 221 2.0.0 closing connection s3-20020a056a00194300b004f6da3a1a3bsm15565340pfk.8 - gsmtp<EOL>
+22-03-20 14:38:16 ** Disconnecting from smtp.gmail.com:587
+22-03-20 14:38:16 ** Disconnected.
+22-03-20 14:38:16 ** Disconnected.
+22-03-20 14:40:59 ** --- MESSAGE BEGIN ---
+22-03-20 14:40:59 ** To: logisticwebsite21@gmail.com
+22-03-20 14:40:59 ** Subject: Reset Code
+22-03-20 14:40:59 ** 
+22-03-20 14:40:59 ** Your reset code is 819680
+22-03-20 14:40:59 ** --- MESSAGE END ---
+22-03-20 14:41:00 ** Connecting to smtp.gmail.com:587
+22-03-20 14:41:01 ** Connected.
+22-03-20 14:41:01 << 220 smtp.gmail.com ESMTP p15-20020a056a000a0f00b004f7c63cba5asm15795937pfh.21 - gsmtp<EOL>
+22-03-20 14:41:01 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-20 14:41:01 << 250-smtp.gmail.com at your service, [114.31.181.114]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-20 14:41:01 ** Authenticating as logisticwebsite21@gmail.com
+22-03-20 14:41:01 >> STARTTLS<EOL>
+22-03-20 14:41:01 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-20 14:41:01 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-20 14:41:02 << 250-smtp.gmail.com at your service, [114.31.181.114]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-20 14:41:02 >> AUTH LOGIN<EOL>
+22-03-20 14:41:02 << 334 VXNlcm5hbWU6<EOL>
+22-03-20 14:41:02 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-20 14:41:02 << 334 UGFzc3dvcmQ6<EOL>
+22-03-20 14:41:02 >> MTliY2FAMDE3<EOL>
+22-03-20 14:41:03 << 235 2.7.0 Accepted<EOL>
+22-03-20 14:41:03 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-20 14:41:03 << 250 2.1.0 OK p15-20020a056a000a0f00b004f7c63cba5asm15795937pfh.21 - gsmtp<EOL>
+22-03-20 14:41:03 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-20 14:41:03 << 250 2.1.5 OK p15-20020a056a000a0f00b004f7c63cba5asm15795937pfh.21 - gsmtp<EOL>
+22-03-20 14:41:03 >> DATA<EOL>
+22-03-20 14:41:04 << 354  Go ahead p15-20020a056a000a0f00b004f7c63cba5asm15795937pfh.21 - gsmtp<EOL>
+22-03-20 14:41:04 >> Date: Sun, 20 Mar 2022 14:41:04 +0530<EOL>
+22-03-20 14:41:04 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-20 14:41:04 >> Subject: Reset Code<EOL>
+22-03-20 14:41:04 >> <EOL>
+22-03-20 14:41:04 >> Your reset code is 819680<EOL>
+22-03-20 14:41:04 >> .<EOL>
+22-03-20 14:41:04 << 250 2.0.0 OK  1647767468 p15-20020a056a000a0f00b004f7c63cba5asm15795937pfh.21 - gsmtp<EOL>
+22-03-20 14:41:04 >> QUIT<EOL>
+22-03-20 14:41:05 << 221 2.0.0 closing connection p15-20020a056a000a0f00b004f7c63cba5asm15795937pfh.21 - gsmtp<EOL>
+22-03-20 14:41:05 ** Disconnecting from smtp.gmail.com:587
+22-03-20 14:41:05 ** Disconnected.
+22-03-20 14:41:05 ** Disconnected.
+22-03-22 20:20:03 ** --- MESSAGE BEGIN ---
+22-03-22 20:20:03 ** To: logisticwebsite21@gmail.com
+22-03-22 20:20:03 ** Subject: Reset Code
+22-03-22 20:20:03 ** 
+22-03-22 20:20:03 ** Your reset code is 589416
+22-03-22 20:20:03 ** --- MESSAGE END ---
+22-03-22 20:20:04 ** Connecting to smtp.gmail.com:587
+22-03-22 20:20:04 ** Connected.
+22-03-22 20:20:05 << 220 smtp.gmail.com ESMTP f14-20020a63380e000000b0038253c4d5casm8975354pga.36 - gsmtp<EOL>
+22-03-22 20:20:05 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-22 20:20:05 << 250-smtp.gmail.com at your service, [36.255.240.142]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-22 20:20:05 ** Authenticating as logisticwebsite21@gmail.com
+22-03-22 20:20:05 >> STARTTLS<EOL>
+22-03-22 20:20:05 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-22 20:20:06 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-22 20:20:06 << 250-smtp.gmail.com at your service, [36.255.240.142]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-22 20:20:06 >> AUTH LOGIN<EOL>
+22-03-22 20:20:06 << 334 VXNlcm5hbWU6<EOL>
+22-03-22 20:20:06 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-22 20:20:06 << 334 UGFzc3dvcmQ6<EOL>
+22-03-22 20:20:06 >> MTliY2FAMDE3<EOL>
+22-03-22 20:20:07 << 235 2.7.0 Accepted<EOL>
+22-03-22 20:20:07 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-22 20:20:07 << 250 2.1.0 OK f14-20020a63380e000000b0038253c4d5casm8975354pga.36 - gsmtp<EOL>
+22-03-22 20:20:07 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-22 20:20:07 << 250 2.1.5 OK f14-20020a63380e000000b0038253c4d5casm8975354pga.36 - gsmtp<EOL>
+22-03-22 20:20:07 >> DATA<EOL>
+22-03-22 20:20:08 << 354  Go ahead f14-20020a63380e000000b0038253c4d5casm8975354pga.36 - gsmtp<EOL>
+22-03-22 20:20:08 >> Date: Tue, 22 Mar 2022 20:20:08 +0530<EOL>
+22-03-22 20:20:08 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-22 20:20:08 >> Subject: Reset Code<EOL>
+22-03-22 20:20:08 >> <EOL>
+22-03-22 20:20:08 >> Your reset code is 589416<EOL>
+22-03-22 20:20:08 >> .<EOL>
+22-03-22 20:20:08 << 250 2.0.0 OK  1647960608 f14-20020a63380e000000b0038253c4d5casm8975354pga.36 - gsmtp<EOL>
+22-03-22 20:20:08 >> QUIT<EOL>
+22-03-22 20:20:09 << 221 2.0.0 closing connection f14-20020a63380e000000b0038253c4d5casm8975354pga.36 - gsmtp<EOL>
+22-03-22 20:20:09 ** Disconnecting from smtp.gmail.com:587
+22-03-22 20:20:09 ** Disconnected.
+22-03-22 20:20:09 ** Disconnected.
+22-03-22 20:24:12 ** --- MESSAGE BEGIN ---
+22-03-22 20:24:12 ** To: logisticwebsite21@gmail.com
+22-03-22 20:24:12 ** Subject: Reset Code
+22-03-22 20:24:12 ** 
+22-03-22 20:24:12 ** Your reset code is 40061
+22-03-22 20:24:12 ** --- MESSAGE END ---
+22-03-22 20:24:13 ** Connecting to smtp.gmail.com:587
+22-03-22 20:24:14 ** Connected.
+22-03-22 20:24:16 << 220 smtp.gmail.com ESMTP 6-20020a17090a194600b001c61a0f3debsm3132630pjh.10 - gsmtp<EOL>
+22-03-22 20:24:16 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-22 20:24:16 << 250-smtp.gmail.com at your service, [36.255.240.142]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-22 20:24:16 ** Authenticating as logisticwebsite21@gmail.com
+22-03-22 20:24:16 >> STARTTLS<EOL>
+22-03-22 20:24:16 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-22 20:24:16 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-22 20:24:16 << 250-smtp.gmail.com at your service, [36.255.240.142]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-22 20:24:16 >> AUTH LOGIN<EOL>
+22-03-22 20:24:17 << 334 VXNlcm5hbWU6<EOL>
+22-03-22 20:24:17 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-22 20:24:17 << 334 UGFzc3dvcmQ6<EOL>
+22-03-22 20:24:17 >> MTliY2FAMDE3<EOL>
+22-03-22 20:24:17 << 235 2.7.0 Accepted<EOL>
+22-03-22 20:24:17 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-22 20:24:17 << 250 2.1.0 OK 6-20020a17090a194600b001c61a0f3debsm3132630pjh.10 - gsmtp<EOL>
+22-03-22 20:24:18 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-22 20:24:18 << 250 2.1.5 OK 6-20020a17090a194600b001c61a0f3debsm3132630pjh.10 - gsmtp<EOL>
+22-03-22 20:24:18 >> DATA<EOL>
+22-03-22 20:24:18 << 354  Go ahead 6-20020a17090a194600b001c61a0f3debsm3132630pjh.10 - gsmtp<EOL>
+22-03-22 20:24:18 >> Date: Tue, 22 Mar 2022 20:24:18 +0530<EOL>
+22-03-22 20:24:18 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-22 20:24:18 >> Subject: Reset Code<EOL>
+22-03-22 20:24:18 >> <EOL>
+22-03-22 20:24:18 >> Your reset code is 40061<EOL>
+22-03-22 20:24:18 >> .<EOL>
+22-03-22 20:24:19 << 250 2.0.0 OK  1647960859 6-20020a17090a194600b001c61a0f3debsm3132630pjh.10 - gsmtp<EOL>
+22-03-22 20:24:19 >> QUIT<EOL>
+22-03-22 20:24:19 << 221 2.0.0 closing connection 6-20020a17090a194600b001c61a0f3debsm3132630pjh.10 - gsmtp<EOL>
+22-03-22 20:24:19 ** Disconnecting from smtp.gmail.com:587
+22-03-22 20:24:19 ** Disconnected.
+22-03-22 20:24:19 ** Disconnected.
+22-03-22 20:25:31 ** --- MESSAGE BEGIN ---
+22-03-22 20:25:31 ** To: logisticwebsite21@gmail.com
+22-03-22 20:25:31 ** Subject: Reset Code
+22-03-22 20:25:31 ** 
+22-03-22 20:25:31 ** Your reset code is 393935
+22-03-22 20:25:31 ** --- MESSAGE END ---
+22-03-22 20:25:32 ** Connecting to smtp.gmail.com:587
+22-03-22 20:25:33 ** Connected.
+22-03-22 20:25:33 << 220 smtp.gmail.com ESMTP v19-20020a056a00149300b004fa7ca05ef8sm13577748pfu.203 - gsmtp<EOL>
+22-03-22 20:25:33 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-22 20:25:33 << 250-smtp.gmail.com at your service, [36.255.240.142]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-22 20:25:33 ** Authenticating as logisticwebsite21@gmail.com
+22-03-22 20:25:33 >> STARTTLS<EOL>
+22-03-22 20:25:33 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-22 20:25:34 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-22 20:25:34 << 250-smtp.gmail.com at your service, [36.255.240.142]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-22 20:25:34 >> AUTH LOGIN<EOL>
+22-03-22 20:25:34 << 334 VXNlcm5hbWU6<EOL>
+22-03-22 20:25:34 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-22 20:25:34 << 334 UGFzc3dvcmQ6<EOL>
+22-03-22 20:25:34 >> MTliY2FAMDE3<EOL>
+22-03-22 20:25:35 << 235 2.7.0 Accepted<EOL>
+22-03-22 20:25:35 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-22 20:25:35 << 250 2.1.0 OK v19-20020a056a00149300b004fa7ca05ef8sm13577748pfu.203 - gsmtp<EOL>
+22-03-22 20:25:35 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-22 20:25:35 << 250 2.1.5 OK v19-20020a056a00149300b004fa7ca05ef8sm13577748pfu.203 - gsmtp<EOL>
+22-03-22 20:25:35 >> DATA<EOL>
+22-03-22 20:25:35 << 354  Go ahead v19-20020a056a00149300b004fa7ca05ef8sm13577748pfu.203 - gsmtp<EOL>
+22-03-22 20:25:35 >> Date: Tue, 22 Mar 2022 20:25:35 +0530<EOL>
+22-03-22 20:25:35 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-22 20:25:35 >> Subject: Reset Code<EOL>
+22-03-22 20:25:35 >> <EOL>
+22-03-22 20:25:35 >> Your reset code is 393935<EOL>
+22-03-22 20:25:35 >> .<EOL>
+22-03-22 20:25:36 << 250 2.0.0 OK  1647960936 v19-20020a056a00149300b004fa7ca05ef8sm13577748pfu.203 - gsmtp<EOL>
+22-03-22 20:25:36 >> QUIT<EOL>
+22-03-22 20:25:36 << 221 2.0.0 closing connection v19-20020a056a00149300b004fa7ca05ef8sm13577748pfu.203 - gsmtp<EOL>
+22-03-22 20:25:36 ** Disconnecting from smtp.gmail.com:587
+22-03-22 20:25:36 ** Disconnected.
+22-03-22 20:25:36 ** Disconnected.
+22-03-22 20:37:07 ** --- MESSAGE BEGIN ---
+22-03-22 20:37:07 ** To: logisticwebsite21@gmail.com
+22-03-22 20:37:07 ** Subject: Reset Code
+22-03-22 20:37:07 ** 
+22-03-22 20:37:07 ** Your reset code is 484975
+22-03-22 20:37:07 ** --- MESSAGE END ---
+22-03-22 20:37:08 ** Connecting to smtp.gmail.com:587
+22-03-22 20:37:09 ** Connected.
+22-03-22 20:37:09 << 220 smtp.gmail.com ESMTP pc13-20020a17090b3b8d00b001c775679f58sm727217pjb.37 - gsmtp<EOL>
+22-03-22 20:37:09 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-22 20:37:09 << 250-smtp.gmail.com at your service, [36.255.240.142]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-22 20:37:09 ** Authenticating as logisticwebsite21@gmail.com
+22-03-22 20:37:09 >> STARTTLS<EOL>
+22-03-22 20:37:09 << 220 2.0.0 Ready to start TLS<EOL>
+22-03-22 20:37:09 >> EHLO LAPTOP-N1RIMF2S<EOL>
+22-03-22 20:37:10 << 250-smtp.gmail.com at your service, [36.255.240.142]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+22-03-22 20:37:10 >> AUTH LOGIN<EOL>
+22-03-22 20:37:10 << 334 VXNlcm5hbWU6<EOL>
+22-03-22 20:37:10 >> bG9naXN0aWN3ZWJzaXRlMjFAZ21haWwuY29t<EOL>
+22-03-22 20:37:10 << 334 UGFzc3dvcmQ6<EOL>
+22-03-22 20:37:10 >> MTliY2FAMDE3<EOL>
+22-03-22 20:37:11 << 235 2.7.0 Accepted<EOL>
+22-03-22 20:37:11 >> MAIL FROM: <logisticwebsite21@gmail.com><EOL>
+22-03-22 20:37:11 << 250 2.1.0 OK pc13-20020a17090b3b8d00b001c775679f58sm727217pjb.37 - gsmtp<EOL>
+22-03-22 20:37:11 >> RCPT TO: <logisticwebsite21@gmail.com><EOL>
+22-03-22 20:37:11 << 250 2.1.5 OK pc13-20020a17090b3b8d00b001c775679f58sm727217pjb.37 - gsmtp<EOL>
+22-03-22 20:37:11 >> DATA<EOL>
+22-03-22 20:37:11 << 354  Go ahead pc13-20020a17090b3b8d00b001c775679f58sm727217pjb.37 - gsmtp<EOL>
+22-03-22 20:37:11 >> Date: Tue, 22 Mar 2022 20:37:11 +0530<EOL>
+22-03-22 20:37:11 >> To: logisticwebsite21@gmail.com<EOL>
+22-03-22 20:37:11 >> Subject: Reset Code<EOL>
+22-03-22 20:37:11 >> <EOL>
+22-03-22 20:37:11 >> Your reset code is 484975<EOL>
+22-03-22 20:37:11 >> .<EOL>
+22-03-22 20:37:12 << 250 2.0.0 OK  1647961632 pc13-20020a17090b3b8d00b001c775679f58sm727217pjb.37 - gsmtp<EOL>
+22-03-22 20:37:12 >> QUIT<EOL>
+22-03-22 20:37:12 << 221 2.0.0 closing connection pc13-20020a17090b3b8d00b001c775679f58sm727217pjb.37 - gsmtp<EOL>
+22-03-22 20:37:12 ** Disconnecting from smtp.gmail.com:587
+22-03-22 20:37:12 ** Disconnected.
+22-03-22 20:37:12 ** Disconnected.
+22-03-23 13:40:00 ** --- MESSAGE BEGIN ---
+22-03-23 13:40:00 ** To: logisticwebsite21@gmail.com
+22-03-23 13:40:00 ** Subject: Reset Code
+22-03-23 13:40:00 ** 
+22-03-23 13:40:00 ** Your reset code is 975703
+22-03-23 13:40:00 ** --- MESSAGE END ---
+22-03-23 13:40:01 ** Connecting to smtp.gmail.com:587
+22-03-23 13:40:01 ** Disconnected.
+22-03-23 13:40:01 ** Disconnected.
+22-03-23 13:40:01 ** Disconnected.
+22-03-23 13:40:01 ** Socket Error # 11001<EOL>Host not found.

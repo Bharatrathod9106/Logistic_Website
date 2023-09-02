@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krishna Impex</title>
+    <link rel="stylesheet" href="indes.css">
+    <link rel="stylesheet" media="screen and (max-width: 1400px)" href="phone.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+</head>
+<body>
+    <script>
+    
+        var navLinks = document.getElementById("navbar");
+        function showmenu(){
+            navLinks.style.right = "0";
+        }
+        function hidemenu(){
+            navLinks.style.right = "-200px";
+        }
+        
+        
+    </script>
+    
+    <nav id="navbar">
+        <div id="logo">
+            <img src="logo/llogo.png " alt=" my krishna impex">
+        </div>  
+        <div class="nav-links" id="navLinks">
+        <i class="fa fa-times" onclick="hidemenu()"></i>
+            <b><ul>
+                <li class="item"><a href="">Home</a></li>
+                <li class="item"><a href="#about">About</a></li>
+                <li class="item"><a href="#services">Services</a></li>
+                <li class="item"><a href="#ournetwork">Our Network</a></li>
+                <li class="item"><a href="http://container-tracking.org/">Shipment Tracking</a></li>
+                <li class="item"><a href="#contact">Contact</a></li> 
+                <li class="item"><a href="login.php">Admin</a></li>
+            </ul></b>
+        </div>
+        <i class="fa fa-bars" onclick="showmenu()"></i>
+    </nav>
+
+    <section id="home">
+        <h1 class="">The International Courier & Cargo</h1>
+        <p>We are one of leader in Asia pacific for courier services, and integrated express package distribution company with high 
+            reliability and satisfactory ratio. We have the most extensive domestic network covering over 99+ locations,
+             and service more than 15 countries and territories worldwide through our group company, Shree HariKrushna Impex global 
+             brand name in fast and effective distribution services.
+        </p>
+        <button class="btn">Visit Us To Know More</button>
+    </section>
+<hr>
+    <section class="about-container">
+        <h1 class="h-primary center" name="about">About Us</h1>
+        <div id="about">
+        <p>We are the company of experienced people, providing the best service in the field of Courier & Cargo, with a great belief in customer satisfaction.
+        We specialize in providing courier & cargo service for U.K., U.S.A., U.A.E, and Kenya. Our services include Door to Door Courier, Door to Airport Cargo, Airport to Airport Cargo and LCL/FCL Freight Cargo.</p>
+        <p>We are also an agent of DHL, FedEx, Skynet and Skycom (U.K., U.S.A., U.A.E., & Africa Self Network).We are the team of dedicated people, and we work hard to maintain our reputation for being a trustworthy & timely service provider.</p>
+        <ul>
+            <!-- <li>In this website, there are several modules such as Home, About, Services, Shipment tracking, Contact and Admin.</li> -->
+
+            <li>We provide 24/7 availability to our customers.</li>
+            <br>
+
+            <li>We provide shipment tracking service to our customers.</li>
+            <br>
+
+            <li>We are known for quick & easy business solution to our customers.</li>
+            <br>
+            <br>
+
+            <!-- <li>Service module contains the information related to services which are provided by the company.</li> -->
+
+            <!-- <li>Shipment tracking module helps to track shipment.</li>
+
+            <li>Contact module contains the information regarding the company and several ways to contact company.</li> -->
+
+            <!-- <li>Admin module is the main module of this website which contains forms related to import-export details.
+            After filling those forms a checklist will be generated. We can download the checklist in the form of pdf. 
+            This module is only accessed by “admin” only who has a specific username and password.</li> -->
+        </ul>
+        </div>
+
+    </section>
+<hr>
+    <section class="services-container">
+        <h1 class="h-primary center" name="services">Service</h1>
+        <div id="services">
+
+            <div class="box">
+                <h2 class="h-secondary center">Door To Door Courier Services</h2>            
+                <img src="image/d2d.jpg">
+                <p>Our company provides Door-To-Door Services to our customers.</p>
+            </div>
+            <div class="box">
+                <h2 class="h-secondary center">Air Cargo Service</h2>            
+                <img src="image/air.jpg">
+                <p>Our company provides various kind of Air Cargo Services to our customers.</p>
+            </div>
+            <div class="box">
+                <h2 class="h-secondary center">LCL/FCL Freight Cargo Service</h2>            
+                <img src="image/lcl.jpg">
+                <p>Our company provides LCL/FCL Services to our customers.</p>
+            </div>
+
+        </div>    
+    </section>
+    <hr>
+    <section id="client-section">
+        <h1 class="h-primary center" name="ournetwork">Our Network</h1>
+
+       <marquee>
+        <div id="clients">    
+            <div class="client-item">
+                <img src="image\our-customer-logo1.jpg" alt="Our Client">
+            </div>
+            <div class="client-item">
+                <img src="image\our-customer-logo2.jpg" alt="Our Client">
+            </div>
+          
+            <div class="client-item">
+                <img src="image\our-customer-logo3.jpg" alt="Our Client">
+            </div>
+            <div class="client-item">
+                <img src="image\our-customer-logo4.jpg" alt="Our Client">
+            </div>
+        </div>
+    </marquee>
+    </section>
+<hr>
+    <section id="contact-section">
+        <h1 class="h-primary center" name="contact">Contact Us</h1>
+        <div id="contact">
+            <div class="contact-item">
+                <ul>
+                    <li class="li-item">Compony name</li>
+                    <li class="item">Krishna Impex</li>
+                </ul>
+            </div>
+
+            <div class="contact-item">
+                <ul>
+                    <li class="li-item">Quick Links</li>
+                    <li class="item"><a href="#">About</a></li>
+                    <li class="item"><a href="#">Services</a></li>
+                    <li class="item"><a href="#">Our network</a></li>
+                    <li class="item"><a href="#">Shipment tracking</a></li>
+                    <li class="item"><a href="#">Admin</a></li>
+                </ul>
+            </div>
+
+            <div class="contact-item">
+                <ul>
+                    <li class="li-item">Contact</li>
+                    <li class="item"><img src="icon\telephone-call.png"> +91 2832 251356</li>
+                    <li class="item"><img src="icon\cell-phone.png"> +91 99798 65957</li>
+                    <li class="item"><img src="icon\email.png"> Krishnaimpex12@gmail.com</li>
+                    <li class="item"><img src="icon\location.png">R.T.O , relocation Site, Bhuj Kutch</li>
+                </ul>
+            </div>
+        </div>
+        <div class="icon">
+            <ul>
+                <li><img src="icon\social-network.png"></li>
+                <li><img src="icon\instagram.png"></li>
+                <li><img src="icon\twitter.png"></li>
+                <li><img src="icon\google.png"></li>
+            </ul>
+        </div>
+    </section>
+<hr>
+    <footer>
+        <div class="center">
+            Copyright &copy; www.KrishnaImpex.com. All rights reserved!
+        </div>
+    </footer>
+</body>
+</html>

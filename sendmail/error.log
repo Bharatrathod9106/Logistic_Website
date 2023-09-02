@@ -1,0 +1,22 @@
+21-12-08 14:56:22 : Socket Error # 11001<EOL>Host not found.
+22-01-08 23:40:12 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor k20sm2509333pfk.111 - gsmtp<EOL>
+22-01-08 23:40:44 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor i11sm2587009pfq.206 - gsmtp<EOL>
+22-01-08 23:42:19 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor w4sm2471373pjq.7 - gsmtp<EOL>
+22-01-08 23:43:11 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor kb1sm2556474pjb.45 - gsmtp<EOL>
+22-01-09 00:16:43 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor go19sm744165pjb.25 - gsmtp<EOL>
+22-01-10 18:12:04 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor c6sm6894665pfv.62 - gsmtp<EOL>
+22-01-11 11:04:39 : Application-specific password required. Learn more at<EOL> https://support.google.com/mail/?p=InvalidSecondFactor q22sm618663pfu.153 - gsmtp<EOL>
+22-01-17 15:34:30 : Socket Error # 11001<EOL>Host not found.
+22-01-17 15:34:32 : Socket Error # 11001<EOL>Host not found.
+22-01-20 11:34:40 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials w10sm1435346pfn.153 - gsmtp<EOL>
+22-01-20 11:36:10 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials t23sm1288468pgg.30 - gsmtp<EOL>
+22-01-23 16:51:08 : Socket Error # 11001<EOL>Host not found.
+22-01-23 16:51:10 : Socket Error # 11001<EOL>Host not found.
+22-01-23 16:51:42 : Socket Error # 11001<EOL>Host not found.
+22-03-10 12:41:52 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials i7-20020a17090a65c700b001b936b8abe0sm8551380pjs.7 - gsmtp<EOL>
+22-03-10 12:42:53 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials i11-20020a056a00004b00b004f6907b2cd3sm5587832pfk.122 - gsmtp<EOL>
+22-03-10 12:46:13 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials m11-20020a056a00080b00b004f75d5f9b5csm4735620pfk.26 - gsmtp<EOL>
+22-03-10 12:47:02 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials y13-20020a056a00180d00b004f733bc57e5sm5593412pfa.192 - gsmtp<EOL>
+22-03-10 13:17:54 : Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials y2-20020a056a00190200b004f6ef638551sm5811053pfi.98 - gsmtp<EOL>
+22-03-10 13:27:02 : Socket Error # 10054<EOL>Connection reset by peer.
+22-03-23 13:40:01 : Socket Error # 11001<EOL>Host not found.

@@ -1,0 +1,189 @@
+
+.form-body{
+    
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-weight: 300;
+    width: 100%;
+    background: rgb(204, 204, 204);
+    font-family: sans-serif;
+    
+ }
+ h2, h4, p{
+      
+    margin: 0;
+ }
+
+ .page{
+
+    background: #fff;
+    display: block;
+    margin: 3rem auto 3rem auto;
+    position: relative;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+
+
+ }
+
+ .page[size="A4"]  {
+
+    width: 21cm;
+    height: 45.7cm;
+    overflow-x: hidden;
+
+ }
+
+
+ .container{
+
+    max-width:  750px;
+    width: 100%;
+    background: #fff;
+    padding: 20px 25px;
+    border-radius: 5px;
+    border-width: 2px;
+    
+}
+.container .head{
+
+    /* font-size: 25px; */
+    font-weight: 400;
+    padding-bottom: 2px;
+    padding-left: 0%;
+    font-style: italic;
+    font-weight: bold;
+    position: relative;
+    /* padding-left: 180px; */
+
+   
+}
+/* for heading */
+.head ul{
+
+    display: inline-flex;
+    list-style: none;
+    width: 100%;  
+    padding-left: 1px;
+    margin: 0;
+
+}
+img{
+    width: 80px; 
+}
+.head .pp{
+
+    padding-top: 15px;
+    padding-left: 5px;
+    font-size: 20px;
+
+}
+.container .head::before{
+
+    content:'';
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    height: 3px;
+    width: 100%;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+
+/* user detail */
+.container form .user-detail{
+
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 30px;
+    justify-content: space-around;
+    /* margin: 20px 0 10px 0; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; */
+    
+}
+form .user-detail .input-box{
+   
+    width: calc(100% / 2 - 20px);
+}
+
+form .inputt-box{
+
+    line-height: 30px;
+    padding-left: 10px;
+
+}
+
+
+/* code of amount and currency */
+.heading{
+
+    display: flex ;
+    padding-left:86px;
+    padding-bottom:10px;   
+}
+h4{
+
+    padding: 5px 56px;
+} 
+.user-detaill{
+
+    display: flex;
+    flex-wrap: wrap;
+    line-height: 40px;
+    /* padding-left: 5px; */
+    /* margin: 20px 0 10px 0; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; */ 
+}
+.user-detaill .inputt-box{
+   
+    width: calc(100% / 1 - 20px);
+}
+.user-detaill .inputt-box .detaill{
+
+    display: inline-block;
+    font-weight: 500px;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+    padding-right: 15px;
+} 
+.user-detaill .inputt-box .detaill1{
+
+    display: inline-block;
+    font-weight: 500px;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+    padding-right: 60px;
+}
+.user-detaill .inputt-box .detaill2{
+
+    display: inline-block;
+    font-weight: 500px;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+    padding-right: 39px;
+}
+.detaill3{
+
+    display: inline-block;
+    font-weight: 500px;
+    font-family: sans-serif;
+    margin-bottom: 5px;
+    padding-right: 33px;
+}
+
+
+/* for the table */
+table{
+
+    padding-top: 10px;
+    padding: 2px;
+} 
+th{
+    padding: 8px;
+}
+td{
+
+    text-align: center;
+}
+/* end */
+

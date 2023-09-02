@@ -1,0 +1,4 @@
+D for Download(ForceFully)
+I for open browser 
+F for download file and save into a folder
+echo $mpdf->output($file,'s');   ... used for 

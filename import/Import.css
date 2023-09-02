@@ -1,0 +1,119 @@
+        
+    *{
+        margin: 0;
+        padding: 0;
+        font-family: 'Poppins', sans-serif;
+    }
+    .body{
+
+       /* background-image: url(container.jpg); */
+       height: 100vh;
+       justify-content: center;
+       align-items: center;
+       background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(image/2.jpg);
+       background-position: center;
+       background-size: cover;
+       position: relative;
+        /* box-sizing: border-box; */
+    } 
+    .manu-bar{
+
+        align-items: center;
+        padding-left: 70px;
+    }
+    .manu-bar ul{
+
+        display: inline-flex;
+        list-style: none;  
+        color: #fff; 
+    }
+    .manu-bar ul .li-list{
+        
+        padding-top: 20px;
+        margin: 10px;   
+    }
+    .manu-bar ul .li-list a{
+
+        text-decoration: none;
+        font-family: sans-serif;
+        font-size: 1.3rem;
+        padding: 2px 20px;
+        color: #fff;  
+        padding-bottom:15px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+    .manu-bar ul .li-list a:hover{
+
+        background: rgb(80, 113, 204); 
+        color: black;
+    }
+
+
+    /* sub manu */
+    .sub-manu-1{
+
+        display: none;
+    }
+    .manu-bar ul .li-list:hover .sub-manu-1{
+
+        display: block;
+        position: absolute;
+        padding-top:15px;
+        /* color: black; */
+        /* background: rgb(212, 110, 110); */
+        background: rgb(80, 113, 204); 
+       
+        
+
+    }
+    .manu-bar ul .li-list:hover .sub-manu-1 .ul-list{
+
+        display: block; 
+    }
+    .manu-bar ul .li-list:hover .sub-manu-1 .ul-list .li-list-1{
+
+        padding: 10px;
+        border-bottom: 1px dotted #fff;
+    }
+    .manu-bar ul .li-list:hover .sub-manu-1 .ul-list .li-list-1 .a-list{
+        
+        text-align:left;
+        background: transparent;
+        font-size: 1.1rem;
+        font-family: sans-serif;
+        padding: 1px 10px;
+    }
+    .manu-bar ul .li-list:hover .sub-manu-1 .ul-list .li-list-1 s.a-list{
+        
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .manu-bar ul .li-list:hover .sub-manu-1 .ul-list .li-list-1 .a-list:hover{
+
+        color: rgb(12, 11, 11);
+        border-color: rgb(19, 18, 18);
+        
+    }
+
+    /* center logo */
+    .center{
+
+        /* font-size: 130px; */
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        padding-top: 20px;
+    }
+    img{
+        width: 620px;
+        font-family: cursive ;
+        /* font-weight: bold; */
+        
+    }
+    /* img:hover{ 
+
+        font-size: 100px;
+        background:rgba(91, 131, 240, 0.6);
+    } */
+
